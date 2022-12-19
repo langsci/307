@@ -1,0 +1,916 @@
+% $ biblatex auxiliary file $
+% $ biblatex bbl format version 3.1 $
+% Do not modify the above lines!
+%
+% This is an auxiliary file used by the 'biblatex' package.
+% This file may safely be deleted. It will be recreated by
+% biber as required.
+%
+\begingroup
+\makeatletter
+\@ifundefined{ver@biblatex.sty}
+  {\@latex@error
+     {Missing 'biblatex' package}
+     {The bibliography requires the 'biblatex' package.}
+      \aftergroup\endinput}
+  {}
+\endgroup
+
+
+\refsection{0}
+  \datalist[entry]{nyt/global//global/global}
+    \entry{Bartens1996}{article}{}
+      \name{author}{1}{}{%
+        {{hash=0c817e5f586451178c022e0e3ece2282}{%
+           family={Bartens},
+           familyi={B\bibinitperiod},
+           given={Raija},
+           giveni={R\bibinitperiod}}}%
+      }
+      \strng{namehash}{0c817e5f586451178c022e0e3ece2282}
+      \strng{fullhash}{0c817e5f586451178c022e0e3ece2282}
+      \strng{bibnamehash}{0c817e5f586451178c022e0e3ece2282}
+      \strng{authorbibnamehash}{0c817e5f586451178c022e0e3ece2282}
+      \strng{authornamehash}{0c817e5f586451178c022e0e3ece2282}
+      \strng{authorfullhash}{0c817e5f586451178c022e0e3ece2282}
+      \field{extraname}{1}
+      \field{sortinit}{B}
+      \field{sortinithash}{d7095fff47cda75ca2589920aae98399}
+      \field{extradatescope}{labelyear}
+      \field{labeldatesource}{year}
+      \field{labelnamesource}{author}
+      \field{labeltitlesource}{title}
+      \field{journaltitle}{Ural-{Altaische} {Jahrbücher}}
+      \field{series}{Neue Folge}
+      \field{title}{Die positive und negative {Existentiale} in den finnisch-ugrischen {{Sprachen}}}
+      \field{volume}{14}
+      \field{year}{1996}
+      \field{pages}{58\bibrangedash 97}
+      \range{pages}{40}
+    \endentry
+    \entry{Bartens1999}{book}{}
+      \name{author}{1}{}{%
+        {{hash=0c817e5f586451178c022e0e3ece2282}{%
+           family={Bartens},
+           familyi={B\bibinitperiod},
+           given={Raija},
+           giveni={R\bibinitperiod}}}%
+      }
+      \list{location}{1}{%
+        {Helsinki}%
+      }
+      \list{publisher}{1}{%
+        {Suomalais-Ugrilainen Seura}%
+      }
+      \strng{namehash}{0c817e5f586451178c022e0e3ece2282}
+      \strng{fullhash}{0c817e5f586451178c022e0e3ece2282}
+      \strng{bibnamehash}{0c817e5f586451178c022e0e3ece2282}
+      \strng{authorbibnamehash}{0c817e5f586451178c022e0e3ece2282}
+      \strng{authornamehash}{0c817e5f586451178c022e0e3ece2282}
+      \strng{authorfullhash}{0c817e5f586451178c022e0e3ece2282}
+      \field{extraname}{2}
+      \field{sortinit}{B}
+      \field{sortinithash}{d7095fff47cda75ca2589920aae98399}
+      \field{extradatescope}{labelyear}
+      \field{labeldatesource}{year}
+      \field{labelnamesource}{author}
+      \field{labeltitlesource}{title}
+      \field{number}{232}
+      \field{series}{Mémoires de la Société Finno-Ougrienne}
+      \field{title}{Mordvalaiskielten rakenne ja kehitys}
+      \field{year}{1999}
+    \endentry
+    \entry{Comrie1981}{book}{}
+      \name{author}{1}{}{%
+        {{hash=a9414b9a9140ec051c3137f10995b961}{%
+           family={Comrie},
+           familyi={C\bibinitperiod},
+           given={Bernard},
+           giveni={B\bibinitperiod}}}%
+      }
+      \list{location}{1}{%
+        {Oxford}%
+      }
+      \list{publisher}{1}{%
+        {Basil Blackwell}%
+      }
+      \strng{namehash}{a9414b9a9140ec051c3137f10995b961}
+      \strng{fullhash}{a9414b9a9140ec051c3137f10995b961}
+      \strng{bibnamehash}{a9414b9a9140ec051c3137f10995b961}
+      \strng{authorbibnamehash}{a9414b9a9140ec051c3137f10995b961}
+      \strng{authornamehash}{a9414b9a9140ec051c3137f10995b961}
+      \strng{authorfullhash}{a9414b9a9140ec051c3137f10995b961}
+      \field{sortinit}{C}
+      \field{sortinithash}{4d103a86280481745c9c897c925753c0}
+      \field{extradatescope}{labelyear}
+      \field{labeldatesource}{year}
+      \field{labelnamesource}{author}
+      \field{labeltitlesource}{title}
+      \field{title}{Language Universals and Linguistic Typology}
+      \field{year}{1981}
+    \endentry
+    \entry{Croft1991}{article}{}
+      \name{author}{1}{}{%
+        {{hash=b04ec902fecc6ee3aa901faf48874ea5}{%
+           family={Croft},
+           familyi={C\bibinitperiod},
+           given={William},
+           giveni={W\bibinitperiod}}}%
+      }
+      \strng{namehash}{b04ec902fecc6ee3aa901faf48874ea5}
+      \strng{fullhash}{b04ec902fecc6ee3aa901faf48874ea5}
+      \strng{bibnamehash}{b04ec902fecc6ee3aa901faf48874ea5}
+      \strng{authorbibnamehash}{b04ec902fecc6ee3aa901faf48874ea5}
+      \strng{authornamehash}{b04ec902fecc6ee3aa901faf48874ea5}
+      \strng{authorfullhash}{b04ec902fecc6ee3aa901faf48874ea5}
+      \field{sortinit}{C}
+      \field{sortinithash}{4d103a86280481745c9c897c925753c0}
+      \field{extradatescope}{labelyear}
+      \field{labeldatesource}{year}
+      \field{labelnamesource}{author}
+      \field{labeltitlesource}{title}
+      \field{journaltitle}{Journal of Linguistics}
+      \field{number}{1}
+      \field{title}{The evolution of negation}
+      \field{volume}{27}
+      \field{year}{1991}
+      \field{pages}{1\bibrangedash 27}
+      \range{pages}{27}
+    \endentry
+    \entry{Hamari2007}{book}{}
+      \name{author}{1}{}{%
+        {{hash=3e0282d7a1c32d898c8a4263a5b7fcac}{%
+           family={Hamari},
+           familyi={H\bibinitperiod},
+           given={Arja},
+           giveni={A\bibinitperiod}}}%
+      }
+      \list{location}{1}{%
+        {Helsinki}%
+      }
+      \list{publisher}{1}{%
+        {Suomalais-Ugrilainen Seura}%
+      }
+      \strng{namehash}{3e0282d7a1c32d898c8a4263a5b7fcac}
+      \strng{fullhash}{3e0282d7a1c32d898c8a4263a5b7fcac}
+      \strng{bibnamehash}{3e0282d7a1c32d898c8a4263a5b7fcac}
+      \strng{authorbibnamehash}{3e0282d7a1c32d898c8a4263a5b7fcac}
+      \strng{authornamehash}{3e0282d7a1c32d898c8a4263a5b7fcac}
+      \strng{authorfullhash}{3e0282d7a1c32d898c8a4263a5b7fcac}
+      \field{extraname}{1}
+      \field{sortinit}{H}
+      \field{sortinithash}{23a3aa7c24e56cfa16945d55545109b5}
+      \field{extradatescope}{labelyear}
+      \field{labeldatesource}{year}
+      \field{labelnamesource}{author}
+      \field{labeltitlesource}{title}
+      \field{number}{254}
+      \field{series}{Mémoires de la Société Finno-Ougrienne}
+      \field{title}{The negation of stative relation clauses in the {Mordvin} languages}
+      \field{year}{2007}
+    \endentry
+    \entry{Hamari2011}{incollection}{}
+      \name{author}{1}{}{%
+        {{hash=3e0282d7a1c32d898c8a4263a5b7fcac}{%
+           family={Hamari},
+           familyi={H\bibinitperiod},
+           given={Arja},
+           giveni={A\bibinitperiod}}}%
+      }
+      \name{editor}{4}{}{%
+        {{hash=76365cc12d62ed4a7844fbb55b3d60a9}{%
+           family={Csúcs},
+           familyi={C\bibinitperiod},
+           given={Sándor},
+           giveni={S\bibinitperiod}}}%
+        {{hash=6b2f1ab25127e6a5ea6950c5372b91cd}{%
+           family={Falk},
+           familyi={F\bibinitperiod},
+           given={Nóra},
+           giveni={N\bibinitperiod}}}%
+        {{hash=781bb2ed79c0c99b3c86224b5b785099}{%
+           family={Tóth},
+           familyi={T\bibinitperiod},
+           given={Viktória},
+           giveni={V\bibinitperiod}}}%
+        {{hash=95f5d86162bd2f995726db8b8e1a0fe7}{%
+           family={Zaicz},
+           familyi={Z\bibinitperiod},
+           given={Gábor},
+           giveni={G\bibinitperiod}}}%
+      }
+      \list{location}{1}{%
+        {Piliscsaba}%
+      }
+      \list{publisher}{1}{%
+        {Reguly Társaság}%
+      }
+      \strng{namehash}{3e0282d7a1c32d898c8a4263a5b7fcac}
+      \strng{fullhash}{3e0282d7a1c32d898c8a4263a5b7fcac}
+      \strng{bibnamehash}{3e0282d7a1c32d898c8a4263a5b7fcac}
+      \strng{authorbibnamehash}{3e0282d7a1c32d898c8a4263a5b7fcac}
+      \strng{authornamehash}{3e0282d7a1c32d898c8a4263a5b7fcac}
+      \strng{authorfullhash}{3e0282d7a1c32d898c8a4263a5b7fcac}
+      \strng{editorbibnamehash}{a97482a5c9f53b42090c4b073db99e95}
+      \strng{editornamehash}{fdb67986876c2188f9d8de6737c37195}
+      \strng{editorfullhash}{a97482a5c9f53b42090c4b073db99e95}
+      \field{extraname}{2}
+      \field{sortinit}{H}
+      \field{sortinithash}{23a3aa7c24e56cfa16945d55545109b5}
+      \field{extradatescope}{labelyear}
+      \field{labeldatesource}{year}
+      \field{labelnamesource}{author}
+      \field{labeltitlesource}{title}
+      \field{booksubtitle}{Dissertationes symposiorum ad linguisticam}
+      \field{booktitle}{Congressus {{XI}} {Internationalis} {Fenno-ugristarum,} {Piliscsaba,} 9.--14. {{VIII}} 2010. {{P}}ars {{VI}}}
+      \field{title}{The negation of stative relation clauses in the {Mordvin}, {{Mari}} and {Permic} languages}
+      \field{year}{2011}
+      \field{pages}{250\bibrangedash 257}
+      \range{pages}{8}
+    \endentry
+    \entry{Hamari2013}{incollection}{}
+      \name{author}{1}{}{%
+        {{hash=3e0282d7a1c32d898c8a4263a5b7fcac}{%
+           family={Hamari},
+           familyi={H\bibinitperiod},
+           given={Arja},
+           giveni={A\bibinitperiod}}}%
+      }
+      \name{editor}{3}{}{%
+        {{hash=1935a80659d74b6bc64c1c75ebf8b776}{%
+           family={Willis},
+           familyi={W\bibinitperiod},
+           given={David},
+           giveni={D\bibinitperiod}}}%
+        {{hash=3995dda0933bb03d997dfe71bb50dea0}{%
+           family={Lucas},
+           familyi={L\bibinitperiod},
+           given={Christopher},
+           giveni={C\bibinitperiod}}}%
+        {{hash=a79c555b8b5572da5c88e2b8a3c4cb50}{%
+           family={Breitbarth},
+           familyi={B\bibinitperiod},
+           given={Anne},
+           giveni={A\bibinitperiod}}}%
+      }
+      \list{location}{1}{%
+        {Oxford}%
+      }
+      \list{publisher}{1}{%
+        {Oxford University Press}%
+      }
+      \strng{namehash}{3e0282d7a1c32d898c8a4263a5b7fcac}
+      \strng{fullhash}{3e0282d7a1c32d898c8a4263a5b7fcac}
+      \strng{bibnamehash}{3e0282d7a1c32d898c8a4263a5b7fcac}
+      \strng{authorbibnamehash}{3e0282d7a1c32d898c8a4263a5b7fcac}
+      \strng{authornamehash}{3e0282d7a1c32d898c8a4263a5b7fcac}
+      \strng{authorfullhash}{3e0282d7a1c32d898c8a4263a5b7fcac}
+      \strng{editorbibnamehash}{28fb9f9c142133fa3cf5c8db06852a2c}
+      \strng{editornamehash}{82fcd14fbfa50ba78476c7f1d129b85d}
+      \strng{editorfullhash}{28fb9f9c142133fa3cf5c8db06852a2c}
+      \field{extraname}{3}
+      \field{sortinit}{H}
+      \field{sortinithash}{23a3aa7c24e56cfa16945d55545109b5}
+      \field{extradatescope}{labelyear}
+      \field{labeldatesource}{year}
+      \field{labelnamesource}{author}
+      \field{labeltitlesource}{title}
+      \field{maintitle}{The History of Negation in the Languages of {Europe} and the {Mediterranean}}
+      \field{title}{Negation in the history of the {Mordvin} languages}
+      \field{volume}{I: Case Studies}
+      \field{year}{2013}
+      \field{pages}{453\bibrangedash 485}
+      \range{pages}{33}
+    \endentry
+    \entry{HamariAasmae2015}{incollection}{}
+      \name{author}{2}{}{%
+        {{hash=3e0282d7a1c32d898c8a4263a5b7fcac}{%
+           family={Hamari},
+           familyi={H\bibinitperiod},
+           given={Arja},
+           giveni={A\bibinitperiod}}}%
+        {{hash=9d725c4cf2e4891146d14ae0d1411c17}{%
+           family={Aasmäe},
+           familyi={A\bibinitperiod},
+           given={Niina},
+           giveni={N\bibinitperiod}}}%
+      }
+      \name{editor}{3}{}{%
+        {{hash=898dbabcab452b2f2856a7bd9d9875db}{%
+           family={Miestamo},
+           familyi={M\bibinitperiod},
+           given={Matti},
+           giveni={M\bibinitperiod}}}%
+        {{hash=430dc8d3b9d63ab76cf68cb3368a1785}{%
+           family={Tamm},
+           familyi={T\bibinitperiod},
+           given={Anne},
+           giveni={A\bibinitperiod}}}%
+        {{hash=d23a5b7721ee80048d1136048c111781}{%
+           family={Wagner-Nagy},
+           familyi={W\bibinithyphendelim N\bibinitperiod},
+           given={Beáta},
+           giveni={B\bibinitperiod}}}%
+      }
+      \list{location}{1}{%
+        {Amsterdam}%
+      }
+      \list{publisher}{1}{%
+        {John Benjamins Publishing Company}%
+      }
+      \strng{namehash}{727e61811469d67635224c80c5d4d3e5}
+      \strng{fullhash}{727e61811469d67635224c80c5d4d3e5}
+      \strng{bibnamehash}{727e61811469d67635224c80c5d4d3e5}
+      \strng{authorbibnamehash}{727e61811469d67635224c80c5d4d3e5}
+      \strng{authornamehash}{727e61811469d67635224c80c5d4d3e5}
+      \strng{authorfullhash}{727e61811469d67635224c80c5d4d3e5}
+      \strng{editorbibnamehash}{bf066ac66c0e1795db537a2113e6ea4e}
+      \strng{editornamehash}{d919029c2040d0c499f0b2d909f3e9a4}
+      \strng{editorfullhash}{bf066ac66c0e1795db537a2113e6ea4e}
+      \field{sortinit}{H}
+      \field{sortinithash}{23a3aa7c24e56cfa16945d55545109b5}
+      \field{extradatescope}{labelyear}
+      \field{labeldatesource}{year}
+      \field{labelnamesource}{author}
+      \field{labeltitlesource}{title}
+      \field{booktitle}{Negation in {{Uralic}} languages}
+      \field{number}{108}
+      \field{series}{Typological Studies in Language}
+      \field{title}{Negation in {Erzya}}
+      \field{year}{2015}
+      \field{pages}{293\bibrangedash 323}
+      \range{pages}{31}
+    \endentry
+    \entry{Honti1997}{article}{}
+      \name{author}{1}{}{%
+        {{hash=1386f55bc3e66b35ca0f4e641e7cf159}{%
+           family={Honti},
+           familyi={H\bibinitperiod},
+           given={László},
+           giveni={L\bibinitperiod}}}%
+      }
+      \strng{namehash}{1386f55bc3e66b35ca0f4e641e7cf159}
+      \strng{fullhash}{1386f55bc3e66b35ca0f4e641e7cf159}
+      \strng{bibnamehash}{1386f55bc3e66b35ca0f4e641e7cf159}
+      \strng{authorbibnamehash}{1386f55bc3e66b35ca0f4e641e7cf159}
+      \strng{authornamehash}{1386f55bc3e66b35ca0f4e641e7cf159}
+      \strng{authorfullhash}{1386f55bc3e66b35ca0f4e641e7cf159}
+      \field{sortinit}{H}
+      \field{sortinithash}{23a3aa7c24e56cfa16945d55545109b5}
+      \field{extradatescope}{labelyear}
+      \field{labeldatesource}{year}
+      \field{labelnamesource}{author}
+      \field{labeltitlesource}{title}
+      \field{journaltitle}{Linguistica Uralica}
+      \field{langid}{german}
+      \field{number}{4}
+      \field{title}{Die {Negation} im {Uralischen} {{III}}}
+      \field{volume}{XXXIII}
+      \field{year}{1997}
+      \field{pages}{241\bibrangedash 252}
+      \range{pages}{12}
+    \endentry
+    \entry{Janhunen1982}{article}{}
+      \name{author}{1}{}{%
+        {{hash=3475c39488fe7fbce296aeb69fc197cf}{%
+           family={Janhunen},
+           familyi={J\bibinitperiod},
+           given={Juha},
+           giveni={J\bibinitperiod}}}%
+      }
+      \strng{namehash}{3475c39488fe7fbce296aeb69fc197cf}
+      \strng{fullhash}{3475c39488fe7fbce296aeb69fc197cf}
+      \strng{bibnamehash}{3475c39488fe7fbce296aeb69fc197cf}
+      \strng{authorbibnamehash}{3475c39488fe7fbce296aeb69fc197cf}
+      \strng{authornamehash}{3475c39488fe7fbce296aeb69fc197cf}
+      \strng{authorfullhash}{3475c39488fe7fbce296aeb69fc197cf}
+      \field{sortinit}{J}
+      \field{sortinithash}{b2f54a9081ace9966a7cb9413811edb4}
+      \field{extradatescope}{labelyear}
+      \field{labeldatesource}{year}
+      \field{labelnamesource}{author}
+      \field{labeltitlesource}{title}
+      \field{journaltitle}{Finnisch-Ugrische Forschungen}
+      \field{title}{On the structure of {Proto}-{{Uralic}}}
+      \field{volume}{44}
+      \field{year}{1982}
+      \field{pages}{23\bibrangedash 42}
+      \range{pages}{20}
+    \endentry
+    \entry{Keresztes1999}{book}{}
+      \name{author}{1}{}{%
+        {{hash=032cbc18bc15f25d3fa99a3293d03240}{%
+           family={Ke\-resz\-tes},
+           familyi={K\bibinithyphendelim r\bibinithyphendelim t\bibinitperiod},
+           given={Lász\-ló},
+           giveni={L\bibinithyphendelim l\bibinitperiod}}}%
+      }
+      \list{location}{1}{%
+        {Helsinki}%
+      }
+      \list{publisher}{1}{%
+        {Suomalais-Ugrilainen Seura}%
+      }
+      \strng{namehash}{032cbc18bc15f25d3fa99a3293d03240}
+      \strng{fullhash}{032cbc18bc15f25d3fa99a3293d03240}
+      \strng{bibnamehash}{032cbc18bc15f25d3fa99a3293d03240}
+      \strng{authorbibnamehash}{032cbc18bc15f25d3fa99a3293d03240}
+      \strng{authornamehash}{032cbc18bc15f25d3fa99a3293d03240}
+      \strng{authorfullhash}{032cbc18bc15f25d3fa99a3293d03240}
+      \field{extraname}{1}
+      \field{sortinit}{K}
+      \field{sortinithash}{c02bf6bff1c488450c352b40f5d853ab}
+      \field{extradatescope}{labelyear}
+      \field{labeldatesource}{year}
+      \field{labelnamesource}{author}
+      \field{labeltitlesource}{title}
+      \field{number}{233}
+      \field{series}{Mémoires de la Société Finno-Ougrienne}
+      \field{title}{Development of {Mordvin} Definite Conjugation}
+      \field{year}{1999}
+    \endentry
+    \entry{Keresztes2011}{book}{}
+      \name{author}{1}{}{%
+        {{hash=032cbc18bc15f25d3fa99a3293d03240}{%
+           family={Ke\-resz\-tes},
+           familyi={K\bibinithyphendelim r\bibinithyphendelim t\bibinitperiod},
+           given={Lász\-ló},
+           giveni={L\bibinithyphendelim l\bibinitperiod}}}%
+      }
+      \list{location}{1}{%
+        {Debrecen}%
+      }
+      \list{publisher}{1}{%
+        {Debrecen University Press}%
+      }
+      \strng{namehash}{032cbc18bc15f25d3fa99a3293d03240}
+      \strng{fullhash}{032cbc18bc15f25d3fa99a3293d03240}
+      \strng{bibnamehash}{032cbc18bc15f25d3fa99a3293d03240}
+      \strng{authorbibnamehash}{032cbc18bc15f25d3fa99a3293d03240}
+      \strng{authornamehash}{032cbc18bc15f25d3fa99a3293d03240}
+      \strng{authorfullhash}{032cbc18bc15f25d3fa99a3293d03240}
+      \field{extraname}{2}
+      \field{sortinit}{K}
+      \field{sortinithash}{c02bf6bff1c488450c352b40f5d853ab}
+      \field{extradatescope}{labelyear}
+      \field{labeldatesource}{year}
+      \field{labelnamesource}{author}
+      \field{labeltitlesource}{title}
+      \field{title}{Bevezetés a mordvin nyelvészetbe}
+      \field{year}{2011}
+    \endentry
+    \entry{Klemm1934}{article}{}
+      \name{author}{1}{}{%
+        {{hash=9f00d395b519cdec1a698b6551f131bb}{%
+           family={Klemm},
+           familyi={K\bibinitperiod},
+           given={Antá{}l},
+           giveni={A\bibinitperiod}}}%
+      }
+      \strng{namehash}{9f00d395b519cdec1a698b6551f131bb}
+      \strng{fullhash}{9f00d395b519cdec1a698b6551f131bb}
+      \strng{bibnamehash}{9f00d395b519cdec1a698b6551f131bb}
+      \strng{authorbibnamehash}{9f00d395b519cdec1a698b6551f131bb}
+      \strng{authornamehash}{9f00d395b519cdec1a698b6551f131bb}
+      \strng{authorfullhash}{9f00d395b519cdec1a698b6551f131bb}
+      \field{sortinit}{K}
+      \field{sortinithash}{c02bf6bff1c488450c352b40f5d853ab}
+      \field{extradatescope}{labelyear}
+      \field{labeldatesource}{year}
+      \field{labelnamesource}{author}
+      \field{labeltitlesource}{title}
+      \field{journaltitle}{Nyelvtudomá{}nyi Kö{}zlemé{}nyek}
+      \field{title}{A mordvin tagadó é{}s tiltó szerkezetek tö{}rté{}nete}
+      \field{volume}{48}
+      \field{year}{1934}
+      \field{pages}{382\bibrangedash 402}
+      \range{pages}{21}
+    \endentry
+    \entry{Miestamo2005}{book}{}
+      \name{author}{1}{}{%
+        {{hash=898dbabcab452b2f2856a7bd9d9875db}{%
+           family={Miestamo},
+           familyi={M\bibinitperiod},
+           given={Matti},
+           giveni={M\bibinitperiod}}}%
+      }
+      \list{location}{1}{%
+        {Berlin}%
+      }
+      \list{publisher}{1}{%
+        {Mouton de Gruyter}%
+      }
+      \strng{namehash}{898dbabcab452b2f2856a7bd9d9875db}
+      \strng{fullhash}{898dbabcab452b2f2856a7bd9d9875db}
+      \strng{bibnamehash}{898dbabcab452b2f2856a7bd9d9875db}
+      \strng{authorbibnamehash}{898dbabcab452b2f2856a7bd9d9875db}
+      \strng{authornamehash}{898dbabcab452b2f2856a7bd9d9875db}
+      \strng{authorfullhash}{898dbabcab452b2f2856a7bd9d9875db}
+      \field{sortinit}{M}
+      \field{sortinithash}{4625c616857f13d17ce56f7d4f97d451}
+      \field{extradatescope}{labelyear}
+      \field{labeldatesource}{year}
+      \field{labelnamesource}{author}
+      \field{labeltitlesource}{title}
+      \field{title}{{Standard} negation: {{T}}he negation of declarative verbal main clauses in a typological perspective}
+      \field{year}{2005}
+    \endentry
+    \entry{Moksha1998-1}{periodical}{}
+      \list{institution}{1}{%
+        {Правительство Республики Мордовия}%
+      }
+      \list{location}{1}{%
+        {Саранск}%
+      }
+      \field{sortinit}{M}
+      \field{sortinithash}{4625c616857f13d17ce56f7d4f97d451}
+      \field{extradatescope}{labelyear}
+      \field{labeldatesource}{year}
+      \field{labeltitlesource}{title}
+      \field{issue}{1}
+      \field{subtitle}{Литературно-художественный и общественно-политический журнал}
+      \field{title}{{M}okša = {М}окша}
+      \field{year}{1998}
+      \true{nocite}
+    \endentry
+    \entry{MRV}{book}{useeditor=false}
+      \name{editor}{3}{}{%
+        {{hash=568759958aa75617783c1d09d2ca7507}{%
+           family={Серебренников},
+           familyi={С\bibinitperiod},
+           given={Б.\bibnamedelimi А.},
+           giveni={Б\bibinitperiod\bibinitdelim А\bibinitperiod}}}%
+        {{hash=5022942a940ec384fdb91d44c12da518}{%
+           family={Феоктистов},
+           familyi={Ф\bibinitperiod},
+           given={А.\bibnamedelimi П.},
+           giveni={А\bibinitperiod\bibinitdelim П\bibinitperiod}}}%
+        {{hash=141625f7d1ebdcdf85cacb6b1e5a0174}{%
+           family={Поляков},
+           familyi={П\bibinitperiod},
+           given={О.\bibnamedelimi Е.},
+           giveni={О\bibinitperiod\bibinitdelim Е\bibinitperiod}}}%
+      }
+      \list{location}{1}{%
+        {Москва}%
+      }
+      \list{publisher}{1}{%
+        {Русский язык, Дигора}%
+      }
+      \strng{editorbibnamehash}{cdcade84a9a07d08485b0a3a11db3ddf}
+      \strng{editornamehash}{4a902b018399a6026a23868a3f17843d}
+      \strng{editorfullhash}{cdcade84a9a07d08485b0a3a11db3ddf}
+      \field{sortinit}{M}
+      \field{sortinithash}{4625c616857f13d17ce56f7d4f97d451}
+      \field{extradatescope}{labelyear}
+      \field{labeldatesource}{year}
+      \field{labeltitlesource}{title}
+      \field{booktitle}{{{MRV} = Мокшень-рузонь валкс / Мокшанско-русский словарь}}
+      \field{shorthand}{MRV}
+      \field{title}{{{MRV} = Мокшень-рузонь валкс / Мокшанско-русский словарь}}
+      \field{year}{1998}
+    \endentry
+    \entry{MWb}{book}{useauthor=false,useeditor=false}
+      \list{location}{1}{%
+        {Helsinki}%
+      }
+      \list{publisher}{1}{%
+        {Suomalais-ugrilainen seura}%
+      }
+      \field{sortinit}{M}
+      \field{sortinithash}{4625c616857f13d17ce56f7d4f97d451}
+      \field{extradatescope}{labelyear}
+      \field{labeldatesource}{year}
+      \field{labeltitlesource}{title}
+      \field{number}{XXIII}
+      \field{series}{Lexica Societatis Fenno-Ugricae}
+      \field{shorthand}{MWb}
+      \field{title}{{\textnormal{{MW}b} = H. {Paasonens} {Mordwinisches} {Wö{}rterbuch} zusammengestellt von {Kaino} {Heikkilä}}}
+      \field{volume}{1--6}
+      \field{year}{1990/1999}
+    \endentry
+    \entry{Paasonen1953}{book}{}
+      \name{author}{1}{}{%
+        {{hash=224bacb9f9392469440a6e07585c2d95}{%
+           family={Paasonen},
+           familyi={P\bibinitperiod},
+           given={Heikki},
+           giveni={H\bibinitperiod}}}%
+      }
+      \list{location}{1}{%
+        {Helsinki}%
+      }
+      \list{publisher}{1}{%
+        {Suomalais-Ugrilainen Seura}%
+      }
+      \strng{namehash}{224bacb9f9392469440a6e07585c2d95}
+      \strng{fullhash}{224bacb9f9392469440a6e07585c2d95}
+      \strng{bibnamehash}{224bacb9f9392469440a6e07585c2d95}
+      \strng{authorbibnamehash}{224bacb9f9392469440a6e07585c2d95}
+      \strng{authornamehash}{224bacb9f9392469440a6e07585c2d95}
+      \strng{authorfullhash}{224bacb9f9392469440a6e07585c2d95}
+      \field{sortinit}{P}
+      \field{sortinithash}{ff3bcf24f47321b42cb156c2cc8a8422}
+      \field{extradatescope}{labelyear}
+      \field{labeldatesource}{year}
+      \field{labelnamesource}{author}
+      \field{labeltitlesource}{title}
+      \field{edition}{2}
+      \field{number}{IV}
+      \field{series}{Hilfsmittel für das Studium der finnisch-ugrischen Sprachen}
+      \field{title}{Mordwinische {Chrestomathie} mit {Glossar} und grammatikalischem {Abriss}}
+      \field{year}{1953}
+    \endentry
+    \entry{PaasonenRavila1947}{book}{}
+      \name{author}{2}{}{%
+        {{hash=224bacb9f9392469440a6e07585c2d95}{%
+           family={Paasonen},
+           familyi={P\bibinitperiod},
+           given={Heikki},
+           giveni={H\bibinitperiod}}}%
+        {{hash=6c62f0157cb612cd5d9776a2a525b2e3}{%
+           family={Ravila},
+           familyi={R\bibinitperiod},
+           given={Paavo},
+           giveni={P\bibinitperiod}}}%
+      }
+      \list{location}{1}{%
+        {Helsinki}%
+      }
+      \list{publisher}{1}{%
+        {Finno-Ugrian Society}%
+      }
+      \strng{namehash}{a23fbb67c608a8e283d9c823e5b904c0}
+      \strng{fullhash}{a23fbb67c608a8e283d9c823e5b904c0}
+      \strng{bibnamehash}{a23fbb67c608a8e283d9c823e5b904c0}
+      \strng{authorbibnamehash}{a23fbb67c608a8e283d9c823e5b904c0}
+      \strng{authornamehash}{a23fbb67c608a8e283d9c823e5b904c0}
+      \strng{authorfullhash}{a23fbb67c608a8e283d9c823e5b904c0}
+      \field{sortinit}{P}
+      \field{sortinithash}{ff3bcf24f47321b42cb156c2cc8a8422}
+      \field{extradatescope}{labelyear}
+      \field{labeldatesource}{year}
+      \field{labelnamesource}{author}
+      \field{labeltitlesource}{title}
+      \field{title}{{M}ordwinische {V}olksdichtung}
+      \field{volume}{IV}
+      \field{year}{1947}
+    \endentry
+    \entry{Pall1957}{article}{}
+      \name{author}{1}{}{%
+        {{hash=6d920d35cce69e6597c1936f61554c1e}{%
+           family={Pall},
+           familyi={P\bibinitperiod},
+           given={Valdek},
+           giveni={V\bibinitperiod}}}%
+      }
+      \strng{namehash}{6d920d35cce69e6597c1936f61554c1e}
+      \strng{fullhash}{6d920d35cce69e6597c1936f61554c1e}
+      \strng{bibnamehash}{6d920d35cce69e6597c1936f61554c1e}
+      \strng{authorbibnamehash}{6d920d35cce69e6597c1936f61554c1e}
+      \strng{authornamehash}{6d920d35cce69e6597c1936f61554c1e}
+      \strng{authorfullhash}{6d920d35cce69e6597c1936f61554c1e}
+      \field{sortinit}{P}
+      \field{sortinithash}{ff3bcf24f47321b42cb156c2cc8a8422}
+      \field{extradatescope}{labelyear}
+      \field{labeldatesource}{year}
+      \field{labelnamesource}{author}
+      \field{labeltitlesource}{title}
+      \field{journaltitle}{Emakeele Seltsi Aastaraamat}
+      \field{title}{Negatsioonist mordva keeles}
+      \field{volume}{III}
+      \field{year}{1957}
+      \field{pages}{217\bibrangedash 223}
+      \range{pages}{7}
+    \endentry
+    \entry{Schemerova1972}{article}{}
+      \name{author}{1}{}{%
+        {{hash=ea58ec85dbb447cf0ba99f617e4bd349}{%
+           family={Ščemerova},
+           familyi={Š\bibinitperiod},
+           given={V.\bibnamedelimi S.},
+           giveni={V\bibinitperiod\bibinitdelim S\bibinitperiod}}}%
+      }
+      \strng{namehash}{ea58ec85dbb447cf0ba99f617e4bd349}
+      \strng{fullhash}{ea58ec85dbb447cf0ba99f617e4bd349}
+      \strng{bibnamehash}{ea58ec85dbb447cf0ba99f617e4bd349}
+      \strng{authorbibnamehash}{ea58ec85dbb447cf0ba99f617e4bd349}
+      \strng{authornamehash}{ea58ec85dbb447cf0ba99f617e4bd349}
+      \strng{authorfullhash}{ea58ec85dbb447cf0ba99f617e4bd349}
+      \field{sortinit}{Š}
+      \field{sortinithash}{b164b07b29984b41daf1e85279fbc5ab}
+      \field{extradatescope}{labelyear}
+      \field{labeldatesource}{year}
+      \field{labelnamesource}{author}
+      \field{labeltitlesource}{title}
+      \field{journaltitle}{Советское финно-угроведение}
+      \field{nameaddon}{{= Щемерова, В. С.}}
+      \field{title}{К вопросу а-овой основе глагольного отрицания в мордовских языках}
+      \field{volume}{8}
+      \field{year}{1972}
+      \field{pages}{173\bibrangedash 180}
+      \range{pages}{8}
+    \endentry
+    \entry{SovijarviPeltola1977}{book}{}
+      \name{author}{2}{}{%
+        {{hash=132fa228643d70b8685206dc31e6b941}{%
+           family={Sovijä{}rvi},
+           familyi={S\bibinitperiod},
+           given={Antti},
+           giveni={A\bibinitperiod}}}%
+        {{hash=39cd215a1fd3eb5cdc541702986de1df}{%
+           family={Peltola},
+           familyi={P\bibinitperiod},
+           given={Reino},
+           giveni={R\bibinitperiod}}}%
+      }
+      \list{location}{1}{%
+        {Helsinki}%
+      }
+      \list{publisher}{1}{%
+        {Helsingin yliopisto}%
+      }
+      \strng{namehash}{b63bc4b2d172fbe5a328fc146a5851cf}
+      \strng{fullhash}{b63bc4b2d172fbe5a328fc146a5851cf}
+      \strng{bibnamehash}{b63bc4b2d172fbe5a328fc146a5851cf}
+      \strng{authorbibnamehash}{b63bc4b2d172fbe5a328fc146a5851cf}
+      \strng{authornamehash}{b63bc4b2d172fbe5a328fc146a5851cf}
+      \strng{authorfullhash}{b63bc4b2d172fbe5a328fc146a5851cf}
+      \field{sortinit}{S}
+      \field{sortinithash}{b164b07b29984b41daf1e85279fbc5ab}
+      \field{extradatescope}{labelyear}
+      \field{labeldatesource}{year}
+      \field{labelnamesource}{author}
+      \field{labeltitlesource}{title}
+      \field{number}{9}
+      \field{series}{Helsingin yliopiston fonetiikan laitoksen julkaisuja = Publicationes Instituti Phonetici Universitatis Helsingiensis}
+      \field{title}{Suomalais-ugrilainen tarkekirjoitus}
+      \field{year}{1977}
+    \endentry
+    \entry{Szinnyei1884}{article}{}
+      \name{author}{1}{}{%
+        {{hash=b1c86dd4323e7b9f9b0d0bacec758689}{%
+           family={Szinnyei},
+           familyi={S\bibinitperiod},
+           given={Jó{}szef},
+           giveni={J\bibinitperiod}}}%
+      }
+      \strng{namehash}{b1c86dd4323e7b9f9b0d0bacec758689}
+      \strng{fullhash}{b1c86dd4323e7b9f9b0d0bacec758689}
+      \strng{bibnamehash}{b1c86dd4323e7b9f9b0d0bacec758689}
+      \strng{authorbibnamehash}{b1c86dd4323e7b9f9b0d0bacec758689}
+      \strng{authornamehash}{b1c86dd4323e7b9f9b0d0bacec758689}
+      \strng{authorfullhash}{b1c86dd4323e7b9f9b0d0bacec758689}
+      \field{sortinit}{S}
+      \field{sortinithash}{b164b07b29984b41daf1e85279fbc5ab}
+      \field{extradatescope}{labelyear}
+      \field{labeldatesource}{year}
+      \field{labelnamesource}{author}
+      \field{labeltitlesource}{title}
+      \field{journaltitle}{Magyar Nyelvőr}
+      \field{title}{Volt-e a magyar nyelvnek tagadó igeje?}
+      \field{volume}{XIII}
+      \field{year}{1884}
+      \field{pages}{145\bibrangedash 152}
+      \range{pages}{8}
+    \endentry
+    \entry{Trosterud1994}{incollection}{}
+      \name{author}{1}{}{%
+        {{hash=2105040632bd466314b15df775ffa5ff}{%
+           family={Trosterud},
+           familyi={T\bibinitperiod},
+           given={Trond},
+           giveni={T\bibinitperiod}}}%
+      }
+      \name{editor}{2}{}{%
+        {{hash=02480e0a67014a8b975f475c3bfb8c87}{%
+           family={Moisio},
+           familyi={M\bibinitperiod},
+           given={Arto},
+           giveni={A\bibinitperiod}}}%
+        {{hash=5194fd11fcc7b4677863bb537c701e15}{%
+           family={Magnusson},
+           familyi={M\bibinitperiod},
+           given={Jaana},
+           giveni={J\bibinitperiod}}}%
+      }
+      \list{location}{1}{%
+        {Turku}%
+      }
+      \list{publisher}{1}{%
+        {Turun yliopisto}%
+      }
+      \strng{namehash}{2105040632bd466314b15df775ffa5ff}
+      \strng{fullhash}{2105040632bd466314b15df775ffa5ff}
+      \strng{bibnamehash}{2105040632bd466314b15df775ffa5ff}
+      \strng{authorbibnamehash}{2105040632bd466314b15df775ffa5ff}
+      \strng{authornamehash}{2105040632bd466314b15df775ffa5ff}
+      \strng{authorfullhash}{2105040632bd466314b15df775ffa5ff}
+      \strng{editorbibnamehash}{9dff1d32586a861e4f179c73db76d261}
+      \strng{editornamehash}{9dff1d32586a861e4f179c73db76d261}
+      \strng{editorfullhash}{9dff1d32586a861e4f179c73db76d261}
+      \field{sortinit}{T}
+      \field{sortinithash}{9af77f0292593c26bde9a56e688eaee9}
+      \field{extradatescope}{labelyear}
+      \field{labeldatesource}{year}
+      \field{labelnamesource}{author}
+      \field{labeltitlesource}{title}
+      \field{booksubtitle}{Volgalaiskielten symposiumi {Turussa} 1.--2.9.1993}
+      \field{booktitle}{Volgalaiskielet muutoksessa}
+      \field{number}{45}
+      \field{series}{Turun yliopiston suomalaisen ja yleisen kielitieteen laitoksen julkaisuja}
+      \field{title}{Miksi mordvan objektikonjugaatio nä{}yttää juuri sellaiselta kuin se nä{}yttää?}
+      \field{year}{1994}
+      \field{pages}{74\bibrangedash 86}
+      \range{pages}{13}
+    \endentry
+    \entry{Veselinova2013}{article}{}
+      \name{author}{1}{}{%
+        {{hash=7fe498e77749748c85db170b51b0b191}{%
+           family={Veselinova},
+           familyi={V\bibinitperiod},
+           given={Ljuba},
+           giveni={L\bibinitperiod}}}%
+      }
+      \strng{namehash}{7fe498e77749748c85db170b51b0b191}
+      \strng{fullhash}{7fe498e77749748c85db170b51b0b191}
+      \strng{bibnamehash}{7fe498e77749748c85db170b51b0b191}
+      \strng{authorbibnamehash}{7fe498e77749748c85db170b51b0b191}
+      \strng{authornamehash}{7fe498e77749748c85db170b51b0b191}
+      \strng{authorfullhash}{7fe498e77749748c85db170b51b0b191}
+      \field{extraname}{1}
+      \field{sortinit}{V}
+      \field{sortinithash}{afb52128e5b4dc4b843768c0113d673b}
+      \field{extradatescope}{labelyear}
+      \field{labeldatesource}{year}
+      \field{labelnamesource}{author}
+      \field{labeltitlesource}{title}
+      \field{issuesubtitle}{Special Issue on Existential Constructions}
+      \field{journaltitle}{Italian Journal of Linguistics}
+      \field{number}{1}
+      \field{title}{Negative existentials: {{A}} cross-linguistic study}
+      \field{volume}{25}
+      \field{year}{2013}
+      \field{pages}{107\bibrangedash 145}
+      \range{pages}{39}
+    \endentry
+    \entry{Veselinova2015}{incollection}{}
+      \name{author}{1}{}{%
+        {{hash=7fe498e77749748c85db170b51b0b191}{%
+           family={Veselinova},
+           familyi={V\bibinitperiod},
+           given={Ljuba},
+           giveni={L\bibinitperiod}}}%
+      }
+      \name{editor}{3}{}{%
+        {{hash=898dbabcab452b2f2856a7bd9d9875db}{%
+           family={Miestamo},
+           familyi={M\bibinitperiod},
+           given={Matti},
+           giveni={M\bibinitperiod}}}%
+        {{hash=430dc8d3b9d63ab76cf68cb3368a1785}{%
+           family={Tamm},
+           familyi={T\bibinitperiod},
+           given={Anne},
+           giveni={A\bibinitperiod}}}%
+        {{hash=d23a5b7721ee80048d1136048c111781}{%
+           family={Wagner-Nagy},
+           familyi={W\bibinithyphendelim N\bibinitperiod},
+           given={Beáta},
+           giveni={B\bibinitperiod}}}%
+      }
+      \list{location}{1}{%
+        {Amsterdam}%
+      }
+      \list{publisher}{1}{%
+        {John Benjamins Publishing Company}%
+      }
+      \strng{namehash}{7fe498e77749748c85db170b51b0b191}
+      \strng{fullhash}{7fe498e77749748c85db170b51b0b191}
+      \strng{bibnamehash}{7fe498e77749748c85db170b51b0b191}
+      \strng{authorbibnamehash}{7fe498e77749748c85db170b51b0b191}
+      \strng{authornamehash}{7fe498e77749748c85db170b51b0b191}
+      \strng{authorfullhash}{7fe498e77749748c85db170b51b0b191}
+      \strng{editorbibnamehash}{bf066ac66c0e1795db537a2113e6ea4e}
+      \strng{editornamehash}{d919029c2040d0c499f0b2d909f3e9a4}
+      \strng{editorfullhash}{bf066ac66c0e1795db537a2113e6ea4e}
+      \field{extraname}{2}
+      \field{sortinit}{V}
+      \field{sortinithash}{afb52128e5b4dc4b843768c0113d673b}
+      \field{extradatescope}{labelyear}
+      \field{labeldatesource}{year}
+      \field{labelnamesource}{author}
+      \field{labeltitlesource}{title}
+      \field{booktitle}{Negation in {{Uralic}} languages}
+      \field{number}{108}
+      \field{series}{Typological Studies in Language}
+      \field{subtitle}{Synchrony, diachrony and interaction with standard negation}
+      \field{title}{Special negators in the {{Uralic}} languages}
+      \field{year}{2015}
+      \field{pages}{547\bibrangedash 599}
+      \range{pages}{53}
+    \endentry
+  \enddatalist
+\endrefsection
+\endinput
+

@@ -1,0 +1,17 @@
+[0] Config.pm:311> INFO - This is Biber 2.16
+[0] Config.pm:314> INFO - Logfile is 'Moksha-Hamari.blg'
+[67] biber:340> INFO - === Thu Feb 24, 2022, 16:36:40
+[80] Biber.pm:415> INFO - Reading 'Moksha-Hamari.bcf'
+[149] Biber.pm:952> INFO - Found 26 citekeys in bib section 0
+[161] Biber.pm:4340> INFO - Processing section 0
+[171] Biber.pm:4531> INFO - Looking for bibtex format file '../localbibliography.bib' for section 0
+[191] bibtex.pm:1689> INFO - LaTeX decoding ...
+[964] bibtex.pm:1494> INFO - Found BibTeX data source '../localbibliography.bib'
+[1112] Utils.pm:395> WARN - legacy year field '1990/1999' in entry 'MWb' is not an integer - this will probably not sort properly.
+[1180] UCollate.pm:68> INFO - Overriding locale 'en-US' defaults 'normalization = NFD' with 'normalization = prenormalized'
+[1180] UCollate.pm:68> INFO - Overriding locale 'en-US' defaults 'variable = shifted' with 'variable = non-ignorable'
+[1180] Biber.pm:4168> INFO - Sorting list 'nyt/global//global/global' of type 'entry' with template 'nyt' and locale 'en-US'
+[1180] Biber.pm:4174> INFO - No sort tailoring available for locale 'en-US'
+[1198] bbl.pm:654> INFO - Writing 'Moksha-Hamari.bbl' with encoding 'UTF-8'
+[1210] bbl.pm:757> INFO - Output to Moksha-Hamari.bbl
+[1210] Biber.pm:128> INFO - WARNINGS: 1

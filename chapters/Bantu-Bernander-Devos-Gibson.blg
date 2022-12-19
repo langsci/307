@@ -1,0 +1,21 @@
+[0] Config.pm:311> INFO - This is Biber 2.16
+[0] Config.pm:314> INFO - Logfile is 'Bantu-Bernander-Devos-Gibson.blg'
+[70] biber:340> INFO - === Thu Feb 24, 2022, 12:33:45
+[84] Biber.pm:415> INFO - Reading 'Bantu-Bernander-Devos-Gibson.bcf'
+[186] Biber.pm:952> INFO - Found 158 citekeys in bib section 0
+[199] Biber.pm:4340> INFO - Processing section 0
+[208] Biber.pm:4531> INFO - Looking for bibtex format file '../localbibliography.bib' for section 0
+[228] bibtex.pm:1689> INFO - LaTeX decoding ...
+[1025] bibtex.pm:1494> INFO - Found BibTeX data source '../localbibliography.bib'
+[1215] Utils.pm:395> WARN - legacy year field 'in press' in entry 'BernanderDevos2018' is not an integer - this will probably not sort properly.
+[1249] Utils.pm:395> WARN - legacy year field 'forthcoming' in entry 'ZellerXXXX' is not an integer - this will probably not sort properly.
+[1639] Utils.pm:395> WARN - legacy year field 'n. d.' in entry 'KrogerXXXX' is not an integer - this will probably not sort properly.
+[1677] Utils.pm:395> WARN - BibTeX subsystem: /tmp/biber_tmp_j5uE/7614e5778fec534846b1f27d2a4dd6eb_148778.utf8, line 7399, warning: 1 characters of junk seen at toplevel
+[1678] Utils.pm:395> WARN - I didn't find a database entry for 'chapters/Intertwining-Auwera-Krasnoukhova-Vossen' (section 0)
+[1853] UCollate.pm:68> INFO - Overriding locale 'en-US' defaults 'normalization = NFD' with 'normalization = prenormalized'
+[1853] UCollate.pm:68> INFO - Overriding locale 'en-US' defaults 'variable = shifted' with 'variable = non-ignorable'
+[1853] Biber.pm:4168> INFO - Sorting list 'nyt/global//global/global' of type 'entry' with template 'nyt' and locale 'en-US'
+[1853] Biber.pm:4174> INFO - No sort tailoring available for locale 'en-US'
+[1981] bbl.pm:654> INFO - Writing 'Bantu-Bernander-Devos-Gibson.bbl' with encoding 'UTF-8'
+[2043] bbl.pm:757> INFO - Output to Bantu-Bernander-Devos-Gibson.bbl
+[2043] Biber.pm:128> INFO - WARNINGS: 5

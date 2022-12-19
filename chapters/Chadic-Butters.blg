@@ -1,0 +1,17 @@
+[0] Config.pm:311> INFO - This is Biber 2.16
+[1] Config.pm:314> INFO - Logfile is 'Chadic-Butters.blg'
+[83] biber:340> INFO - === Thu Feb 24, 2022, 13:44:21
+[96] Biber.pm:415> INFO - Reading 'Chadic-Butters.bcf'
+[192] Biber.pm:952> INFO - Found 42 citekeys in bib section 0
+[209] Biber.pm:4340> INFO - Processing section 0
+[219] Biber.pm:4531> INFO - Looking for bibtex format file '../localbibliography.bib' for section 0
+[240] bibtex.pm:1689> INFO - LaTeX decoding ...
+[1053] bibtex.pm:1494> INFO - Found BibTeX data source '../localbibliography.bib'
+[1379] Utils.pm:395> WARN - I didn't find a database entry for 'Allison2012' (section 0)
+[1451] UCollate.pm:68> INFO - Overriding locale 'en-US' defaults 'normalization = NFD' with 'normalization = prenormalized'
+[1451] UCollate.pm:68> INFO - Overriding locale 'en-US' defaults 'variable = shifted' with 'variable = non-ignorable'
+[1451] Biber.pm:4168> INFO - Sorting list 'nyt/global//global/global' of type 'entry' with template 'nyt' and locale 'en-US'
+[1452] Biber.pm:4174> INFO - No sort tailoring available for locale 'en-US'
+[1493] bbl.pm:654> INFO - Writing 'Chadic-Butters.bbl' with encoding 'UTF-8'
+[1513] bbl.pm:757> INFO - Output to Chadic-Butters.bbl
+[1513] Biber.pm:128> INFO - WARNINGS: 1

@@ -1,0 +1,230 @@
+\documentclass{standalone}
+\usepackage{rotating}
+\usepackage[dvipsnames]{xcolor}
+% \usepackage{/Users/xhalaa/dotfiles/mylatexstuff/ccbyandreas}
+% \renewcommand{\ccyear}{2016, 2017, 2020}
+\usepackage[top=2cm, bottom=2cm, left=2cm, right=2cm]{geometry}
+\usepackage{etoolbox}
+% \usepackage{graphicx}
+% \usepackage{footnote} % to save and spew notes
+\usepackage{ccicons}
+\usepackage{calc}
+\def\UrlFont{\rmfamily\itshape} % roman font in urls
+\usepackage{ragged2e}
+\usepackage{tikz}
+\usepackage{varwidth} % nodes size with adjusted width
+\usetikzlibrary{calc, backgrounds,positioning,fit,decorations.pathreplacing,calligraphy}
+  \pgfdeclarelayer{background}
+  \pgfdeclarelayer{foreground}
+  \pgfsetlayers{background,main,foreground}
+% \usepackage{polyglossia}
+% \setmainlanguage{english}
+% \setotherlanguage{arabic}
+
+\frenchspacing
+\usepackage{fontspec}
+\setmainfont[Numbers=OldStyle]{Linux Libertine O}
+% \setsansfont[Numbers=OldStyle]{Source Sans Pro ExtraLight}
+
+% Constants
+\def\startce{-600}
+\def\fince{2000}
+
+% Color to mix in with dynasty. 70%
+\def\mixcolor{gray!60!white}
+
+% \frenchspacing
+	
+% Vertical position of beginning of name
+\newlength\nameh
+\setlength\nameh{13cm}
+
+\newlength\dynastyheight
+\setlength\dynastyheight{1.8cm}
+\newlength\dynastyvshift
+\setlength\dynastyvshift{.55cm}
+
+\newlength\dynwidth
+
+% \grammarian[horizontal offset][east]{<name>}{<yod c.e.>}{<opus magnus>}
+\newcommand\person[4][0]{
+    % Name and yod on top
+  \begin{pgfonlayer}{foreground}
+    \path [draw] (#3,\nameh) ++ (#1,0) node [rotate=-90, anchor=west] (name) [fill=white, inner sep=0pt] {\makebox[2.5em][l]{#3}#2~\strut};
+  \end{pgfonlayer}
+    \draw [thin] (name.east) |- (#3,2) -- (#3,0) ;
+    % Work below
+    \node [font=\itshape, rotate=-90, anchor=west, yshift=#1] (work) at (#3,-2\baselineskip) {#4};
+}
+
+\newcommand\infobox[1]{%
+  \draw[gray] let \p1 = (work) in node (infobox)
+  [color=gray, anchor=north,draw=black, align=left, font=\scriptsize\sffamily]
+   at (\x1,-5) {\begin{varwidth}{2.5cm}\RaggedRight#1\end{varwidth}};
+  \draw (infobox) -- (work.east);
+}
+
+
+% \dynasty{<color>}{<name>}{<startyear c.e.>}{<endyear c.e.>}{<graphical level (>0)>}
+\newcommand\dynasty[5]{%
+\begin{pgfonlayer}{background}
+    % bar
+    \draw [yshift=\dynastyvshift+#5\dynastyheight, line width=\dynastyheight, color=#1!45!\mixcolor]
+    (#3,0) -- (#4,0);
+    \draw [yshift=\dynastyvshift+#5\dynastyheight, line width=1, color=gray]
+    (#3,-.5\dynastyheight) -- (#3,.5\dynastyheight);
+    \draw [yshift=\dynastyvshift+#5\dynastyheight, line width=1, color=gray]
+    (#4,-.5\dynastyheight) -- (#4,.5\dynastyheight);
+    % label
+    \node [white!20!black, yshift=\dynastyvshift+#5\dynastyheight, font=\sffamily]
+    at ({#3+(#4-#3)/2},0) {#2};
+\end{pgfonlayer}
+}
+
+
+% phases
+% \phase{<name>}{<begin>}{<end>}
+\newcommand{\phase}[3]{
+    \draw [thin] (#2+2, \nameh+2mm) -- (#2+2, \nameh+4mm) -- (#3-2, \nameh+4mm) node [midway, above, align=center, font=\sffamily, minimum width = 1mm] {#1\strut} -- (#3-2, \nameh+2mm);
+}
+
+
+\setlength\parindent{0pt}
+
+\begin{document}
+\thispagestyle{empty}
+
+% \vfill
+
+\colorlet{karlgrencol}{pink}
+\colorlet{normancol}{green}
+\colorlet{pancol}{blue}
+\colorlet{ohtacol}{gray}
+\colorlet{peyraubecol}{orange}
+\colorlet{peyraubecolmod}{yellow}
+\colorlet{wangcol}{red}
+\begin{tikzpicture}[x=\textwidth/(\fince-\startce)]
+
+%     \node at (650,\nameh-1ex) [anchor=north] {\textsc{yod}};
+
+    \node at (450,0) [anchor=north] {~};
+
+% Sort the list below with `sort n /{/`
+
+% Phases
+    \phase{Xia}{-2100}{-1600}
+    \phase{Shang}{-1600}{-1028}
+    \phase{Western\\ Zhou}{-1027}{-771}
+    \phase{Spring \&\\ Autumn\\ Period}{-770}{-481}
+    \phase{Warring\\ States\\ period}{-480}{-222}
+    \phase{\begin{turn}{90}Qin\end{turn}}{-221}{-207}
+    \phase{Han}{-206}{220}
+    \phase{Wei-jin\\ period}{220}{420}
+    \phase{\begin{turn}{90}\parbox{3cm}{Southern \& \\[-.3em] Northern\\[-.3em] dynasties}\end{turn}}{420}{589}
+    \phase{\begin{turn}{90}Sui\end{turn}}{589}{618}
+    \phase{Tang}{618}{907}
+    \phase{\begin{turn}{90}\parbox{3cm}{Five Dynasties \&\\[-.3em] Ten Kingdoms}\end{turn}}{907}{960}
+    \phase{Song}{960}{1279}
+    \phase{Yuan}{1271}{1368}
+    \phase{Ming}{1268}{1661}
+    \phase{Qing}{1644}{1911}
+    \phase{\begin{turn}{90}Republic\end{turn}}{1911}{1949}
+    \phase{\begin{turn}{90}PCR\end{turn}}{1949}{\fince}
+
+%     Karlgren
+ \dynasty{karlgrencol}{Proto-Chinese}{-2100}{-1600}{1}
+ \dynasty{karlgrencol}{Archaic Ch.}{-1027}{-771}{1}
+ \dynasty{karlgrencol}{Ancient Chinese}{589}{618}{1}
+ \dynasty{karlgrencol}{Middle Chinese}{960}{1279}{1}
+ \dynasty{karlgrencol}{Old Mandarin}{1368}{1661}{1}
+
+%  Norman
+\dynasty{normancol}{Old Chinese}{-1027}{-771}{2}
+\dynasty{normancol}{Middle Chinese}{589}{618}{2}
+\dynasty{normancol}{Old Mandarin}{960}{1368}{2}
+\dynasty{normancol}{Middle Mand.}{1368}{1661}{2}
+\dynasty{normancol}{Mod. Mand.}{1644}{1911}{2}
+
+% pan
+
+\dynasty{pancol}{Early Old Chinese}{-1600}{-771}{3}
+\dynasty{pancol}{Middle Old Chinese}{-770}{-222}{3}
+\dynasty{pancol}{Late Old Chinese}{-206}{220}{3}
+\dynasty{pancol}{Middle Chinese}{220}{589}{3}
+\dynasty{pancol}{Late Mid. Ch.}{618}{907}{3}
+\dynasty{pancol}{Pre-Modern Chinese}{960}{1911}{3}
+\dynasty{pancol}{MC}{1911}{\fince}{3}
+
+% ohta
+\dynasty{ohtacol}{Early Old Chinese}{-1600}{220}{4}
+\dynasty{ohtacol}{Middle Old Ch.}{220}{589}{4}
+\dynasty{ohtacol}{Late Old Chinese}{618}{1661}{4}
+\dynasty{ohtacol}{Pre-MCh}{1644}{1911}{4}
+\dynasty{ohtacol}{MC}{1911}{\fince}{4}
+
+
+% peyraube
+\dynasty{peyraubecol}{Pre-Arch. Ch.}{-1400}{-1100}{5}
+\dynasty{peyraubecol}{Early Arch. Ch.}{-1000}{-600}{5}
+\dynasty{peyraubecol}{Late Arch. Ch.}{-500}{-200}{5}
+\dynasty{peyraubecolmod}{Pre-Med. Ch.}{-100}{100}{5}
+\dynasty{peyraubecol}{Early Med. Ch.}{200}{600}{5}
+\dynasty{peyraubecol}{Late Medieval Ch.}{700}{1279}{5}
+\dynasty{peyraubecolmod}{Pre-MCh}{1279}{1400}{5}
+\dynasty{peyraubecol}{Modern Chinese}{1401}{1850}{5}
+\dynasty{peyraubecol}{ContCh}{1850}{\fince}{5}
+
+
+% wang
+\dynasty{wangcol}{Early Old  Chinese}{-300}{400}{6}
+\dynasty{wangcol}{Middle Old Chinese}{400}{1200}{6}
+\dynasty{wangcol}{Pre-MC}{1300}{1842}{6}
+\dynasty{wangcol}{MC}{1919}{\fince}{6}
+
+
+
+        \begin{pgfonlayer}{background}
+        % hijri ticks
+          \foreach \x in {-2000,-1600,...,2000}
+            {\draw [red!70!gray] (.97*\x, 0) -- ++ (0, +.2) node [font=\bfseries,inner sep=0pt,anchor=south, color=red!70!gray] {\x\strut} ;}
+
+%           % hijri ticks on 50s
+%           \foreach \x in {50,150,...,900}
+%             {\draw [red!70!gray] (.97*\x+622, 0) -- ++ (0, +.1);}
+        \end{pgfonlayer}
+
+ \node (karlgren)[white!20!black, draw, rectangle, text width=2.8cm, fill=karlgrencol!45!\mixcolor, xshift=-12.5cm, yshift=9cm]{\small Karlgren (1915)};
+ \node (norman)  [white!20!black, draw, rectangle, text width=2.8cm, above = 1.5mm of karlgren,fill=normancol!45!\mixcolor]{\small Norman (1988)};
+ \node (pan)  [white!20!black, draw, rectangle, text width=2.8cm, above = 1.5mm of norman,fill=pancol!45!\mixcolor]{\small Pan (1982)};
+ \node (ohta)  [white!20!black, draw, rectangle, text width=2.8cm, above = 1.5mm of pan,fill=ohtacol!45!\mixcolor]{\small Ohta (1988)};
+ \node (peyraubetransition)  [white!20!black, draw, rectangle, text width=2.8cm, above = 1.5mm of ohta,fill=peyraubecolmod!45!\mixcolor]{\small (transition)};
+ \node (peyraube)  [white!20!black, draw, rectangle, text width=2.8cm, above =0mm of peyraubetransition,fill=peyraubecol!45!\mixcolor]{\small Peyraube (1988, 1996)};
+ \node (wang)  [white!20!black, draw, rectangle, text width=2.8cm, above = 1.5mm of peyraube,fill=wangcol!45!\mixcolor]{\small Wang (1958)};
+ \node[fit=(karlgren)(wang), draw, double] {};
+%   {{karlgrencol}{ {Karlgren}}                    }\\
+%   {{normancol}{ {Norman}}                     }  \\
+%   {{pancol}{ {Pan}}                         }   \\
+%   {{ohtacol}{ {ohtacol}}                        }\\
+%   {{peyraubecol}{ {Payraube,Payraube2}} }       \\
+%   {{peyraubecolmod}{transition}               } \\
+%   {{wangcol}{ {Wang}}                         } \\
+%  };
+
+\draw [decorate, decoration = {calligraphic brace}, thick,xshift=14cm] (0,4.95) --  (0,1.3);
+\draw [decorate, decoration = {calligraphic brace}, thick,xshift=14cm] (0,10.35) --  (0,5.05);
+\draw [decorate, decoration = {calligraphic brace}, thick,xshift=14cm] (0,12.2) --  (0,10.45);
+
+\node[rotate=-90,yshift=14.25cm,xshift=-3cm]{phonological};
+\node[rotate=-90,yshift=14.25cm,xshift=-7.7cm]{grammatical};
+\node[rotate=-90,yshift=14.25cm,xshift=-11.3cm]{multi};
+
+\end{tikzpicture}
+
+
+
+
+
+
+
+
+\end{document}

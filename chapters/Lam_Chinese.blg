@@ -1,0 +1,15 @@
+[0] Config.pm:311> INFO - This is Biber 2.16
+[0] Config.pm:314> INFO - Logfile is 'Lam_Chinese.blg'
+[66] biber:340> INFO - === Thu Feb 24, 2022, 17:09:43
+[78] Biber.pm:415> INFO - Reading 'Lam_Chinese.bcf'
+[147] Biber.pm:952> INFO - Found 34 citekeys in bib section 0
+[159] Biber.pm:4340> INFO - Processing section 0
+[168] Biber.pm:4531> INFO - Looking for bibtex format file '../localbibliography.bib' for section 0
+[188] bibtex.pm:1689> INFO - LaTeX decoding ...
+[947] bibtex.pm:1494> INFO - Found BibTeX data source '../localbibliography.bib'
+[1159] UCollate.pm:68> INFO - Overriding locale 'en-US' defaults 'normalization = NFD' with 'normalization = prenormalized'
+[1159] UCollate.pm:68> INFO - Overriding locale 'en-US' defaults 'variable = shifted' with 'variable = non-ignorable'
+[1159] Biber.pm:4168> INFO - Sorting list 'nyt/global//global/global' of type 'entry' with template 'nyt' and locale 'en-US'
+[1160] Biber.pm:4174> INFO - No sort tailoring available for locale 'en-US'
+[1188] bbl.pm:654> INFO - Writing 'Lam_Chinese.bbl' with encoding 'UTF-8'
+[1201] bbl.pm:757> INFO - Output to Lam_Chinese.bbl

@@ -1,0 +1,17 @@
+[0] Config.pm:311> INFO - This is Biber 2.16
+[0] Config.pm:314> INFO - Logfile is 'Wilmsen_Arabic.blg'
+[68] biber:340> INFO - === Thu Feb 24, 2022, 14:21:00
+[81] Biber.pm:415> INFO - Reading 'Wilmsen_Arabic.bcf'
+[160] Biber.pm:952> INFO - Found 67 citekeys in bib section 0
+[173] Biber.pm:4340> INFO - Processing section 0
+[181] Biber.pm:4531> INFO - Looking for bibtex format file '../localbibliography.bib' for section 0
+[201] bibtex.pm:1689> INFO - LaTeX decoding ...
+[993] bibtex.pm:1494> INFO - Found BibTeX data source '../localbibliography.bib'
+[1139] Utils.pm:395> WARN - legacy year field 'no date' in entry 'anbal-a' is not an integer - this will probably not sort properly.
+[1460] UCollate.pm:68> INFO - Overriding locale 'en-US' defaults 'variable = shifted' with 'variable = non-ignorable'
+[1460] UCollate.pm:68> INFO - Overriding locale 'en-US' defaults 'normalization = NFD' with 'normalization = prenormalized'
+[1461] Biber.pm:4168> INFO - Sorting list 'nyt/global//global/global' of type 'entry' with template 'nyt' and locale 'en-US'
+[1461] Biber.pm:4174> INFO - No sort tailoring available for locale 'en-US'
+[1524] bbl.pm:654> INFO - Writing 'Wilmsen_Arabic.bbl' with encoding 'UTF-8'
+[1552] bbl.pm:757> INFO - Output to Wilmsen_Arabic.bbl
+[1552] Biber.pm:128> INFO - WARNINGS: 1

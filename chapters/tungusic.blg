@@ -1,0 +1,18 @@
+[0] Config.pm:311> INFO - This is Biber 2.16
+[0] Config.pm:314> INFO - Logfile is 'tungusic.blg'
+[103] biber:340> INFO - === Fri Feb 25, 2022, 10:43:36
+[126] Biber.pm:415> INFO - Reading 'tungusic.bcf'
+[216] Biber.pm:952> INFO - Found 34 citekeys in bib section 0
+[232] Biber.pm:4340> INFO - Processing section 0
+[243] Biber.pm:4531> INFO - Looking for bibtex format file '../localbibliography.bib' for section 0
+[265] bibtex.pm:1689> INFO - LaTeX decoding ...
+[1251] bibtex.pm:1494> INFO - Found BibTeX data source '../localbibliography.bib'
+[1500] Utils.pm:395> WARN - I didn't find a database entry for 'chapters/Intertwining-Auwera-Krasnoukhova-Vossen' (section 0)
+[1501] Utils.pm:395> WARN - I didn't find a database entry for 'chapters/Bantu-Bernander-Devos-Gibson' (section 0)
+[1556] UCollate.pm:68> INFO - Overriding locale 'en-US' defaults 'variable = shifted' with 'variable = non-ignorable'
+[1556] UCollate.pm:68> INFO - Overriding locale 'en-US' defaults 'normalization = NFD' with 'normalization = prenormalized'
+[1556] Biber.pm:4168> INFO - Sorting list 'nyt/global//global/global' of type 'entry' with template 'nyt' and locale 'en-US'
+[1556] Biber.pm:4174> INFO - No sort tailoring available for locale 'en-US'
+[1591] bbl.pm:654> INFO - Writing 'tungusic.bbl' with encoding 'UTF-8'
+[1610] bbl.pm:757> INFO - Output to tungusic.bbl
+[1610] Biber.pm:128> INFO - WARNINGS: 2

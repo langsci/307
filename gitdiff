@@ -1,0 +1,1 @@
+git diff -w --ignore-blank-lines --word-diff  e89818ec1deae1c7bf11baf4996d322b1ef38536:chapters/Wilmsen_Arabic.tex a77f676:chapters/Wilmsen_Arabic-2.tex

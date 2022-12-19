@@ -1,0 +1,18 @@
+[0] Config.pm:311> INFO - This is Biber 2.16
+[0] Config.pm:314> INFO - Logfile is 'Othercycles-Gelderen.blg'
+[73] biber:340> INFO - === Fri Feb 25, 2022, 15:28:02
+[87] Biber.pm:415> INFO - Reading 'Othercycles-Gelderen.bcf'
+[163] Biber.pm:952> INFO - Found 50 citekeys in bib section 0
+[176] Biber.pm:4340> INFO - Processing section 0
+[187] Biber.pm:4531> INFO - Looking for bibtex format file '../localbibliography.bib' for section 0
+[208] bibtex.pm:1689> INFO - LaTeX decoding ...
+[1011] bibtex.pm:1494> INFO - Found BibTeX data source '../localbibliography.bib'
+[1283] Utils.pm:395> WARN - I didn't find a database entry for 'chapters/Intertwining-Auwera-Krasnoukhova-Vossen' (section 0)
+[1283] Utils.pm:395> WARN - I didn't find a database entry for 'chapters/Chadic-Butters' (section 0)
+[1344] UCollate.pm:68> INFO - Overriding locale 'en-US' defaults 'variable = shifted' with 'variable = non-ignorable'
+[1344] UCollate.pm:68> INFO - Overriding locale 'en-US' defaults 'normalization = NFD' with 'normalization = prenormalized'
+[1345] Biber.pm:4168> INFO - Sorting list 'nyt/global//global/global' of type 'entry' with template 'nyt' and locale 'en-US'
+[1345] Biber.pm:4174> INFO - No sort tailoring available for locale 'en-US'
+[1379] bbl.pm:654> INFO - Writing 'Othercycles-Gelderen.bbl' with encoding 'UTF-8'
+[1402] bbl.pm:757> INFO - Output to Othercycles-Gelderen.bbl
+[1402] Biber.pm:128> INFO - WARNINGS: 2

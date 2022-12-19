@@ -1,0 +1,17 @@
+[0] Config.pm:311> INFO - This is Biber 2.16
+[0] Config.pm:314> INFO - Logfile is 'Intertwining-Auwera-Krasnoukhova-Vossen.blg'
+[70] biber:340> INFO - === Fri Feb 25, 2022, 15:38:16
+[85] Biber.pm:415> INFO - Reading 'Intertwining-Auwera-Krasnoukhova-Vossen.bcf'
+[179] Biber.pm:952> INFO - Found 101 citekeys in bib section 0
+[193] Biber.pm:4340> INFO - Processing section 0
+[203] Biber.pm:4531> INFO - Looking for bibtex format file '../localbibliography.bib' for section 0
+[225] bibtex.pm:1689> INFO - LaTeX decoding ...
+[1012] bibtex.pm:1494> INFO - Found BibTeX data source '../localbibliography.bib'
+[1516] Utils.pm:395> WARN - I didn't find a database entry for 'chapters/Guillaume_Tacana' (section 0)
+[1635] UCollate.pm:68> INFO - Overriding locale 'en-US' defaults 'normalization = NFD' with 'normalization = prenormalized'
+[1635] UCollate.pm:68> INFO - Overriding locale 'en-US' defaults 'variable = shifted' with 'variable = non-ignorable'
+[1635] Biber.pm:4168> INFO - Sorting list 'nyt/global//global/global' of type 'entry' with template 'nyt' and locale 'en-US'
+[1635] Biber.pm:4174> INFO - No sort tailoring available for locale 'en-US'
+[1718] bbl.pm:654> INFO - Writing 'Intertwining-Auwera-Krasnoukhova-Vossen.bbl' with encoding 'UTF-8'
+[1764] bbl.pm:757> INFO - Output to Intertwining-Auwera-Krasnoukhova-Vossen.bbl
+[1765] Biber.pm:128> INFO - WARNINGS: 1

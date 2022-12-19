@@ -1,0 +1,1137 @@
+% $ biblatex auxiliary file $
+% $ biblatex bbl format version 3.1 $
+% Do not modify the above lines!
+%
+% This is an auxiliary file used by the 'biblatex' package.
+% This file may safely be deleted. It will be recreated by
+% biber as required.
+%
+\begingroup
+\makeatletter
+\@ifundefined{ver@biblatex.sty}
+  {\@latex@error
+     {Missing 'biblatex' package}
+     {The bibliography requires the 'biblatex' package.}
+      \aftergroup\endinput}
+  {}
+\endgroup
+
+
+\refsection{0}
+  \datalist[entry]{nyt/global//global/global}
+    \entry{ChappellPeyraube2016}{incollection}{}
+      \name{author}{2}{}{%
+        {{hash=dedf354581a48371f1b56a5a9ad15f45}{%
+           family={Chappell},
+           familyi={C\bibinitperiod},
+           given={Hilary},
+           giveni={H\bibinitperiod}}}%
+        {{hash=bb27e466c80b32cd22513dc1718445af}{%
+           family={Peyraube},
+           familyi={P\bibinitperiod},
+           given={Alain},
+           giveni={A\bibinitperiod}}}%
+      }
+      \name{editor}{4}{}{%
+        {{hash=14207b7913713c9d182cd29433b6a702}{%
+           family={Ting},
+           familyi={T\bibinitperiod},
+           given={Pang-Hsin},
+           giveni={P\bibinithyphendelim H\bibinitperiod}}}%
+        {{hash=4f22df8460837cfb9fbcf2c8695f8e4b}{%
+           family={Cheung},
+           familyi={C\bibinitperiod},
+           given={Samuel\bibnamedelima Hung-Nin},
+           giveni={S\bibinitperiod\bibinitdelim H\bibinithyphendelim N\bibinitperiod}}}%
+        {{hash=00b74047e8cb40d01b914d0d0fef7d73}{%
+           family={Tang},
+           familyi={T\bibinitperiod},
+           given={Sze-Wing},
+           giveni={S\bibinithyphendelim W\bibinitperiod}}}%
+        {{hash=93ff223639804a90e2b20ade7878824e}{%
+           family={Chin},
+           familyi={C\bibinitperiod},
+           given={Andy\bibnamedelima Chi-on},
+           giveni={A\bibinitperiod\bibinitdelim C\bibinithyphendelim o\bibinitperiod}}}%
+      }
+      \list{location}{1}{%
+        {Hong Kong}%
+      }
+      \list{publisher}{1}{%
+        {T.T. Ng Chinese Language Research Centre, Institute of Chinese Studies, The Chinese University of Hong Kong}%
+      }
+      \strng{namehash}{a4cebdfdbfc479dc375bd6861aefa445}
+      \strng{fullhash}{a4cebdfdbfc479dc375bd6861aefa445}
+      \strng{bibnamehash}{a4cebdfdbfc479dc375bd6861aefa445}
+      \strng{authorbibnamehash}{a4cebdfdbfc479dc375bd6861aefa445}
+      \strng{authornamehash}{a4cebdfdbfc479dc375bd6861aefa445}
+      \strng{authorfullhash}{a4cebdfdbfc479dc375bd6861aefa445}
+      \strng{editorbibnamehash}{2f6820b97dcfd2f5c050f4e9ce29df6a}
+      \strng{editornamehash}{4bef522c96c47adfb781d30b231c6f42}
+      \strng{editorfullhash}{2f6820b97dcfd2f5c050f4e9ce29df6a}
+      \field{sortinit}{C}
+      \field{sortinithash}{4d103a86280481745c9c897c925753c0}
+      \field{extradatescope}{labelyear}
+      \field{labeldatesource}{year}
+      \field{labelnamesource}{author}
+      \field{labeltitlesource}{title}
+      \field{booktitle}{{N}ew Horizons in the Study of {C}hinese: {D}ialectology, Grammar, and Philology -- {S}tudies in Honor of {P}rofessor {A}nne {Y}ue}
+      \field{title}{A Typological Study of Negation in {S}initic Languages: {S}ynchronic and Diachronic Views}
+      \field{year}{2016}
+      \field{pages}{483\bibrangedash 534}
+      \range{pages}{52}
+    \endentry
+    \entry{chant}{unpublished}{}
+      \name{author}{1}{}{%
+        {{hash=528234dd908a1649bc81fd4c79093356}{%
+           family={{Chinese Ancient Texts Database}},
+           familyi={C\bibinitperiod}}}%
+      }
+      \strng{namehash}{528234dd908a1649bc81fd4c79093356}
+      \strng{fullhash}{528234dd908a1649bc81fd4c79093356}
+      \strng{bibnamehash}{528234dd908a1649bc81fd4c79093356}
+      \strng{authorbibnamehash}{528234dd908a1649bc81fd4c79093356}
+      \strng{authornamehash}{528234dd908a1649bc81fd4c79093356}
+      \strng{authorfullhash}{528234dd908a1649bc81fd4c79093356}
+      \field{sortinit}{C}
+      \field{sortinithash}{4d103a86280481745c9c897c925753c0}
+      \field{labeldatesource}{nodate}
+      \field{labelnamesource}{author}
+      \field{labeltitlesource}{title}
+      \field{title}{Chant. {{O}}rg}
+      \field{urlyear}{2017-02-15}
+      \verb{urlraw}
+      \verb http://www.chant.org/Database.aspx
+      \endverb
+      \verb{url}
+      \verb http://www.chant.org/Database.aspx
+      \endverb
+    \endentry
+    \entry{Croft1991}{article}{}
+      \name{author}{1}{}{%
+        {{hash=b04ec902fecc6ee3aa901faf48874ea5}{%
+           family={Croft},
+           familyi={C\bibinitperiod},
+           given={William},
+           giveni={W\bibinitperiod}}}%
+      }
+      \strng{namehash}{b04ec902fecc6ee3aa901faf48874ea5}
+      \strng{fullhash}{b04ec902fecc6ee3aa901faf48874ea5}
+      \strng{bibnamehash}{b04ec902fecc6ee3aa901faf48874ea5}
+      \strng{authorbibnamehash}{b04ec902fecc6ee3aa901faf48874ea5}
+      \strng{authornamehash}{b04ec902fecc6ee3aa901faf48874ea5}
+      \strng{authorfullhash}{b04ec902fecc6ee3aa901faf48874ea5}
+      \field{sortinit}{C}
+      \field{sortinithash}{4d103a86280481745c9c897c925753c0}
+      \field{extradatescope}{labelyear}
+      \field{labeldatesource}{year}
+      \field{labelnamesource}{author}
+      \field{labeltitlesource}{title}
+      \field{journaltitle}{Journal of Linguistics}
+      \field{number}{1}
+      \field{title}{The evolution of negation}
+      \field{volume}{27}
+      \field{year}{1991}
+      \field{pages}{1\bibrangedash 27}
+      \range{pages}{27}
+    \endentry
+    \entry{Ernst1995}{article}{}
+      \name{author}{1}{}{%
+        {{hash=7d7a0c4d4b682f61ae59479b1b968f84}{%
+           family={Ernst},
+           familyi={E\bibinitperiod},
+           given={Thomas},
+           giveni={T\bibinitperiod}}}%
+      }
+      \strng{namehash}{7d7a0c4d4b682f61ae59479b1b968f84}
+      \strng{fullhash}{7d7a0c4d4b682f61ae59479b1b968f84}
+      \strng{bibnamehash}{7d7a0c4d4b682f61ae59479b1b968f84}
+      \strng{authorbibnamehash}{7d7a0c4d4b682f61ae59479b1b968f84}
+      \strng{authornamehash}{7d7a0c4d4b682f61ae59479b1b968f84}
+      \strng{authorfullhash}{7d7a0c4d4b682f61ae59479b1b968f84}
+      \field{sortinit}{E}
+      \field{sortinithash}{8da8a182d344d5b9047633dfc0cc9131}
+      \field{extradatescope}{labelyear}
+      \field{labeldatesource}{year}
+      \field{labelnamesource}{author}
+      \field{labeltitlesource}{title}
+      \field{journaltitle}{Natural Language \& Linguistic Theory}
+      \field{number}{4}
+      \field{title}{Negation in {M}andarin {C}hinese}
+      \field{volume}{13}
+      \field{year}{1995}
+      \field{pages}{665\bibrangedash 707}
+      \range{pages}{43}
+    \endentry
+    \entry{Hashimoto1985}{book}{}
+      \name{author}{1}{}{%
+        {{hash=7bc023c77849c906c6aa6fdcb19f7a86}{%
+           family={Hashimoto},
+           familyi={H\bibinitperiod},
+           given={J.\bibnamedelimi Mantaro},
+           giveni={J\bibinitperiod\bibinitdelim M\bibinitperiod}}}%
+      }
+      \list{location}{1}{%
+        {Beijing}%
+      }
+      \list{publisher}{1}{%
+        {Peking University Press}%
+      }
+      \strng{namehash}{7bc023c77849c906c6aa6fdcb19f7a86}
+      \strng{fullhash}{7bc023c77849c906c6aa6fdcb19f7a86}
+      \strng{bibnamehash}{7bc023c77849c906c6aa6fdcb19f7a86}
+      \strng{authorbibnamehash}{7bc023c77849c906c6aa6fdcb19f7a86}
+      \strng{authornamehash}{7bc023c77849c906c6aa6fdcb19f7a86}
+      \strng{authorfullhash}{7bc023c77849c906c6aa6fdcb19f7a86}
+      \field{sortinit}{H}
+      \field{sortinithash}{23a3aa7c24e56cfa16945d55545109b5}
+      \field{extradatescope}{labelyear}
+      \field{labeldatesource}{year}
+      \field{labelnamesource}{author}
+      \field{labeltitlesource}{title}
+      \field{title}{{\cn 言語地理類型論} yanyu dili leixing lun [{T}heory of language typology]}
+      \field{year}{1985}
+    \endentry
+    \entry{Huang1988}{article}{}
+      \name{author}{1}{}{%
+        {{hash=3a67b245a8cd3d4e05f9a38326e4ad88}{%
+           family={Huang},
+           familyi={H\bibinitperiod},
+           given={Cheng-Teh\bibnamedelima James},
+           giveni={C\bibinithyphendelim T\bibinitperiod\bibinitdelim J\bibinitperiod}}}%
+      }
+      \strng{namehash}{3a67b245a8cd3d4e05f9a38326e4ad88}
+      \strng{fullhash}{3a67b245a8cd3d4e05f9a38326e4ad88}
+      \strng{bibnamehash}{3a67b245a8cd3d4e05f9a38326e4ad88}
+      \strng{authorbibnamehash}{3a67b245a8cd3d4e05f9a38326e4ad88}
+      \strng{authornamehash}{3a67b245a8cd3d4e05f9a38326e4ad88}
+      \strng{authorfullhash}{3a67b245a8cd3d4e05f9a38326e4ad88}
+      \field{sortinit}{H}
+      \field{sortinithash}{23a3aa7c24e56cfa16945d55545109b5}
+      \field{extradatescope}{labelyear}
+      \field{labeldatesource}{year}
+      \field{labelnamesource}{author}
+      \field{labeltitlesource}{title}
+      \field{journaltitle}{Language}
+      \field{number}{2}
+      \field{title}{Wǒ pǎo de kuài and {C}hinese Phrase Structure}
+      \field{volume}{64}
+      \field{year}{1988}
+      \field{pages}{274\bibrangedash 311}
+      \range{pages}{38}
+    \endentry
+    \entry{Karlgren1915}{book}{}
+      \name{author}{1}{}{%
+        {{hash=0c00315faec93ad7bcabb8475d88b062}{%
+           family={Karlgren},
+           familyi={K\bibinitperiod},
+           given={Bernhard},
+           giveni={B\bibinitperiod}}}%
+      }
+      \list{location}{1}{%
+        {Upsala}%
+      }
+      \list{publisher}{1}{%
+        {Appelburg}%
+      }
+      \strng{namehash}{0c00315faec93ad7bcabb8475d88b062}
+      \strng{fullhash}{0c00315faec93ad7bcabb8475d88b062}
+      \strng{bibnamehash}{0c00315faec93ad7bcabb8475d88b062}
+      \strng{authorbibnamehash}{0c00315faec93ad7bcabb8475d88b062}
+      \strng{authornamehash}{0c00315faec93ad7bcabb8475d88b062}
+      \strng{authorfullhash}{0c00315faec93ad7bcabb8475d88b062}
+      \field{sortinit}{K}
+      \field{sortinithash}{c02bf6bff1c488450c352b40f5d853ab}
+      \field{extradatescope}{labelyear}
+      \field{labeldatesource}{year}
+      \field{labelnamesource}{author}
+      \field{labeltitlesource}{title}
+      \field{series}{Archives D'études Orientales}
+      \field{title}{Études sur la Phonologie Chinoise [Studies of {Chinese} phonology]}
+      \field{volume}{15}
+      \field{year}{1915}
+    \endentry
+    \entry{Law2014}{article}{}
+      \name{author}{1}{}{%
+        {{hash=f42d344880a0071cb482fab3ff45cebb}{%
+           family={Law},
+           familyi={L\bibinitperiod},
+           given={Paul},
+           giveni={P\bibinitperiod}}}%
+      }
+      \strng{namehash}{f42d344880a0071cb482fab3ff45cebb}
+      \strng{fullhash}{f42d344880a0071cb482fab3ff45cebb}
+      \strng{bibnamehash}{f42d344880a0071cb482fab3ff45cebb}
+      \strng{authorbibnamehash}{f42d344880a0071cb482fab3ff45cebb}
+      \strng{authornamehash}{f42d344880a0071cb482fab3ff45cebb}
+      \strng{authorfullhash}{f42d344880a0071cb482fab3ff45cebb}
+      \field{sortinit}{L}
+      \field{sortinithash}{7c47d417cecb1f4bd38d1825c427a61a}
+      \field{extradatescope}{labelyear}
+      \field{labeldatesource}{year}
+      \field{labelnamesource}{author}
+      \field{labeltitlesource}{title}
+      \field{journaltitle}{Journal of East Asian Linguistics}
+      \field{number}{3}
+      \field{title}{The negation \textit{mou5} in {G}uangdong {Y}ue}
+      \field{volume}{23}
+      \field{year}{2014}
+      \field{pages}{267\bibrangedash 305}
+      \range{pages}{39}
+    \endentry
+    \entry{LiThompson1981}{book}{}
+      \name{author}{2}{}{%
+        {{hash=a5b291590732682e7c8e7ef915e0684d}{%
+           family={Li},
+           familyi={L\bibinitperiod},
+           given={Charles},
+           giveni={C\bibinitperiod}}}%
+        {{hash=402d7fcf644f1704360dd9f3d835f25c}{%
+           family={Thompson},
+           familyi={T\bibinitperiod},
+           given={Sandra},
+           giveni={S\bibinitperiod}}}%
+      }
+      \list{location}{1}{%
+        {Berkeley}%
+      }
+      \list{publisher}{1}{%
+        {University of California Press}%
+      }
+      \strng{namehash}{5047634930ca81a1973a4dac14302348}
+      \strng{fullhash}{5047634930ca81a1973a4dac14302348}
+      \strng{bibnamehash}{5047634930ca81a1973a4dac14302348}
+      \strng{authorbibnamehash}{5047634930ca81a1973a4dac14302348}
+      \strng{authornamehash}{5047634930ca81a1973a4dac14302348}
+      \strng{authorfullhash}{5047634930ca81a1973a4dac14302348}
+      \field{sortinit}{L}
+      \field{sortinithash}{7c47d417cecb1f4bd38d1825c427a61a}
+      \field{extradatescope}{labelyear}
+      \field{labeldatesource}{year}
+      \field{labelnamesource}{author}
+      \field{labeltitlesource}{title}
+      \field{title}{{Mandarin} {C}hinese: {{A}} functional reference grammar}
+      \field{year}{1981}
+    \endentry
+    \entry{Li2007}{book}{}
+      \name{author}{1}{}{%
+        {{hash=a5a6804cd5452f3bd2c49956f6d81ef4}{%
+           family={Li},
+           familyi={L\bibinitperiod},
+           given={Mei},
+           giveni={M\bibinitperiod}}}%
+      }
+      \list{location}{1}{%
+        {Shanghai}%
+      }
+      \list{publisher}{1}{%
+        {Shanghai Foreign Language Education Press}%
+      }
+      \strng{namehash}{a5a6804cd5452f3bd2c49956f6d81ef4}
+      \strng{fullhash}{a5a6804cd5452f3bd2c49956f6d81ef4}
+      \strng{bibnamehash}{a5a6804cd5452f3bd2c49956f6d81ef4}
+      \strng{authorbibnamehash}{a5a6804cd5452f3bd2c49956f6d81ef4}
+      \strng{authornamehash}{a5a6804cd5452f3bd2c49956f6d81ef4}
+      \strng{authorfullhash}{a5a6804cd5452f3bd2c49956f6d81ef4}
+      \field{sortinit}{L}
+      \field{sortinithash}{7c47d417cecb1f4bd38d1825c427a61a}
+      \field{extradatescope}{labelyear}
+      \field{labeldatesource}{year}
+      \field{labelnamesource}{author}
+      \field{labeltitlesource}{title}
+      \field{title}{Negation in {C}hinese}
+      \field{year}{2007}
+    \endentry
+    \entry{Lin2003}{article}{}
+      \name{author}{1}{}{%
+        {{hash=c2a94270c3dc9e4b8163fe55b315816c}{%
+           family={Lin},
+           familyi={L\bibinitperiod},
+           given={Jo-Wang},
+           giveni={J\bibinithyphendelim W\bibinitperiod}}}%
+      }
+      \strng{namehash}{c2a94270c3dc9e4b8163fe55b315816c}
+      \strng{fullhash}{c2a94270c3dc9e4b8163fe55b315816c}
+      \strng{bibnamehash}{c2a94270c3dc9e4b8163fe55b315816c}
+      \strng{authorbibnamehash}{c2a94270c3dc9e4b8163fe55b315816c}
+      \strng{authornamehash}{c2a94270c3dc9e4b8163fe55b315816c}
+      \strng{authorfullhash}{c2a94270c3dc9e4b8163fe55b315816c}
+      \field{sortinit}{L}
+      \field{sortinithash}{7c47d417cecb1f4bd38d1825c427a61a}
+      \field{extradatescope}{labelyear}
+      \field{labeldatesource}{year}
+      \field{labelnamesource}{author}
+      \field{labeltitlesource}{title}
+      \field{journaltitle}{Linguistics}
+      \field{number}{3}
+      \field{title}{Aspectual selection and negation in {M}andarin {C}hinese}
+      \field{volume}{41}
+      \field{year}{2003}
+      \field{pages}{425\bibrangedash 459}
+      \range{pages}{35}
+    \endentry
+    \entry{Miestamo2005}{book}{}
+      \name{author}{1}{}{%
+        {{hash=898dbabcab452b2f2856a7bd9d9875db}{%
+           family={Miestamo},
+           familyi={M\bibinitperiod},
+           given={Matti},
+           giveni={M\bibinitperiod}}}%
+      }
+      \list{location}{1}{%
+        {Berlin}%
+      }
+      \list{publisher}{1}{%
+        {Mouton de Gruyter}%
+      }
+      \strng{namehash}{898dbabcab452b2f2856a7bd9d9875db}
+      \strng{fullhash}{898dbabcab452b2f2856a7bd9d9875db}
+      \strng{bibnamehash}{898dbabcab452b2f2856a7bd9d9875db}
+      \strng{authorbibnamehash}{898dbabcab452b2f2856a7bd9d9875db}
+      \strng{authornamehash}{898dbabcab452b2f2856a7bd9d9875db}
+      \strng{authorfullhash}{898dbabcab452b2f2856a7bd9d9875db}
+      \field{sortinit}{M}
+      \field{sortinithash}{4625c616857f13d17ce56f7d4f97d451}
+      \field{extradatescope}{labelyear}
+      \field{labeldatesource}{year}
+      \field{labelnamesource}{author}
+      \field{labeltitlesource}{title}
+      \field{title}{{Standard} negation: {{T}}he negation of declarative verbal main clauses in a typological perspective}
+      \field{year}{2005}
+    \endentry
+    \entry{Norman1988}{book}{}
+      \name{author}{1}{}{%
+        {{hash=d18d0eef6f976026f36ad41ddb14ebb2}{%
+           family={Norman},
+           familyi={N\bibinitperiod},
+           given={Jerry},
+           giveni={J\bibinitperiod}}}%
+      }
+      \list{location}{1}{%
+        {Cambridge}%
+      }
+      \list{publisher}{1}{%
+        {Cambridge University Press}%
+      }
+      \strng{namehash}{d18d0eef6f976026f36ad41ddb14ebb2}
+      \strng{fullhash}{d18d0eef6f976026f36ad41ddb14ebb2}
+      \strng{bibnamehash}{d18d0eef6f976026f36ad41ddb14ebb2}
+      \strng{authorbibnamehash}{d18d0eef6f976026f36ad41ddb14ebb2}
+      \strng{authornamehash}{d18d0eef6f976026f36ad41ddb14ebb2}
+      \strng{authorfullhash}{d18d0eef6f976026f36ad41ddb14ebb2}
+      \field{sortinit}{N}
+      \field{sortinithash}{22369a73d5f88983a108b63f07f37084}
+      \field{extradatescope}{labelyear}
+      \field{labeldatesource}{year}
+      \field{labelnamesource}{author}
+      \field{labeltitlesource}{title}
+      \field{series}{Cambridge Language Surveys}
+      \field{title}{{Chinese}}
+      \field{year}{1988}
+    \endentry
+    \entry{Ohta1988}{book}{}
+      \name{author}{1}{}{%
+        {{hash=8fcbd2dd53aa19b8c2c8ea93011ba5ad}{%
+           family={Ohta},
+           familyi={O\bibinitperiod},
+           given={Tatsuo},
+           giveni={T\bibinitperiod}}}%
+      }
+      \list{location}{1}{%
+        {Tokyo}%
+      }
+      \list{publisher}{1}{%
+        {Hakutei-sha}%
+      }
+      \strng{namehash}{8fcbd2dd53aa19b8c2c8ea93011ba5ad}
+      \strng{fullhash}{8fcbd2dd53aa19b8c2c8ea93011ba5ad}
+      \strng{bibnamehash}{8fcbd2dd53aa19b8c2c8ea93011ba5ad}
+      \strng{authorbibnamehash}{8fcbd2dd53aa19b8c2c8ea93011ba5ad}
+      \strng{authornamehash}{8fcbd2dd53aa19b8c2c8ea93011ba5ad}
+      \strng{authorfullhash}{8fcbd2dd53aa19b8c2c8ea93011ba5ad}
+      \field{sortinit}{O}
+      \field{sortinithash}{2cd7140a07aea5341f9e2771efe90aae}
+      \field{extradatescope}{labelyear}
+      \field{labeldatesource}{year}
+      \field{labelnamesource}{author}
+      \field{labeltitlesource}{title}
+      \field{title}{Chugokugo-shi Tsuko [{A} Historical Study of the {Chinese} Language]}
+      \field{year}{1988}
+    \endentry
+    \entry{PanW2002}{article}{}
+      \name{author}{1}{}{%
+        {{hash=b1b57bd7758288bb6cf1d84c77119c9e}{%
+           family={Pan},
+           familyi={P\bibinitperiod},
+           given={Wuyun},
+           giveni={W\bibinitperiod}}}%
+      }
+      \strng{namehash}{b1b57bd7758288bb6cf1d84c77119c9e}
+      \strng{fullhash}{b1b57bd7758288bb6cf1d84c77119c9e}
+      \strng{bibnamehash}{b1b57bd7758288bb6cf1d84c77119c9e}
+      \strng{authorbibnamehash}{b1b57bd7758288bb6cf1d84c77119c9e}
+      \strng{authornamehash}{b1b57bd7758288bb6cf1d84c77119c9e}
+      \strng{authorfullhash}{b1b57bd7758288bb6cf1d84c77119c9e}
+      \field{extraname}{1}
+      \field{sortinit}{P}
+      \field{sortinithash}{ff3bcf24f47321b42cb156c2cc8a8422}
+      \field{extradatescope}{labelyear}
+      \field{labeldatesource}{year}
+      \field{labelnamesource}{author}
+      \field{labeltitlesource}{title}
+      \field{journaltitle}{Zhongguo Yuwen}
+      \field{title}{On the etymology of {C}hinese negatives}
+      \field{volume}{4}
+      \field{year}{2002}
+      \field{pages}{302\bibrangedash 309}
+      \range{pages}{8}
+    \endentry
+    \entry{PanY1982}{book}{}
+      \name{author}{1}{}{%
+        {{hash=7f5566fd175b92e4f02f9a1d9cb35baf}{%
+           family={Pan},
+           familyi={P\bibinitperiod},
+           given={Yunzhong},
+           giveni={Y\bibinitperiod}}}%
+      }
+      \list{location}{1}{%
+        {Zhengzhou, Henan}%
+      }
+      \list{publisher}{1}{%
+        {Zhong zhou Shuhua she}%
+      }
+      \strng{namehash}{7f5566fd175b92e4f02f9a1d9cb35baf}
+      \strng{fullhash}{7f5566fd175b92e4f02f9a1d9cb35baf}
+      \strng{bibnamehash}{7f5566fd175b92e4f02f9a1d9cb35baf}
+      \strng{authorbibnamehash}{7f5566fd175b92e4f02f9a1d9cb35baf}
+      \strng{authornamehash}{7f5566fd175b92e4f02f9a1d9cb35baf}
+      \strng{authorfullhash}{7f5566fd175b92e4f02f9a1d9cb35baf}
+      \field{extraname}{2}
+      \field{sortinit}{P}
+      \field{sortinithash}{ff3bcf24f47321b42cb156c2cc8a8422}
+      \field{extradatescope}{labelyear}
+      \field{labeldatesource}{year}
+      \field{labelnamesource}{author}
+      \field{labeltitlesource}{title}
+      \field{title}{Hanyu Yufashi Gaiyao [{T}he History of {Chinese} Grammar]}
+      \field{year}{1982}
+    \endentry
+    \entry{Peyraube1988}{book}{}
+      \name{author}{1}{}{%
+        {{hash=bb27e466c80b32cd22513dc1718445af}{%
+           family={Peyraube},
+           familyi={P\bibinitperiod},
+           given={Alain},
+           giveni={A\bibinitperiod}}}%
+      }
+      \list{location}{1}{%
+        {Paris}%
+      }
+      \list{publisher}{1}{%
+        {Institut des Haute Etudes Chinoises, Collège de France}%
+      }
+      \strng{namehash}{bb27e466c80b32cd22513dc1718445af}
+      \strng{fullhash}{bb27e466c80b32cd22513dc1718445af}
+      \strng{bibnamehash}{bb27e466c80b32cd22513dc1718445af}
+      \strng{authorbibnamehash}{bb27e466c80b32cd22513dc1718445af}
+      \strng{authornamehash}{bb27e466c80b32cd22513dc1718445af}
+      \strng{authorfullhash}{bb27e466c80b32cd22513dc1718445af}
+      \field{extraname}{1}
+      \field{sortinit}{P}
+      \field{sortinithash}{ff3bcf24f47321b42cb156c2cc8a8422}
+      \field{extradatescope}{labelyear}
+      \field{labeldatesource}{year}
+      \field{labelnamesource}{author}
+      \field{labeltitlesource}{title}
+      \field{title}{Syntaxe Diachronique du Chinois: {{{E}}}volution des Constructions {Dative} du {XIV}e Siècle av. {{J}}.-C. au {XVIII}e Siècle}
+      \field{year}{1988}
+    \endentry
+    \entry{Peyraube1996}{incollection}{}
+      \name{author}{1}{}{%
+        {{hash=bb27e466c80b32cd22513dc1718445af}{%
+           family={Peyraube},
+           familyi={P\bibinitperiod},
+           given={Alain},
+           giveni={A\bibinitperiod}}}%
+      }
+      \name{editor}{2}{}{%
+        {{hash=3a67b245a8cd3d4e05f9a38326e4ad88}{%
+           family={Huang},
+           familyi={H\bibinitperiod},
+           given={Cheng-Teh\bibnamedelima James},
+           giveni={C\bibinithyphendelim T\bibinitperiod\bibinitdelim J\bibinitperiod}}}%
+        {{hash=b813b9db200662c46b83d977c2d4060b}{%
+           family={Li},
+           familyi={L\bibinitperiod},
+           given={Yen-hui\bibnamedelima Audrey},
+           giveni={Y\bibinithyphendelim h\bibinitperiod\bibinitdelim A\bibinitperiod}}}%
+      }
+      \list{location}{1}{%
+        {Dordrecht}%
+      }
+      \list{publisher}{1}{%
+        {Kluwer Academic Publishers}%
+      }
+      \strng{namehash}{bb27e466c80b32cd22513dc1718445af}
+      \strng{fullhash}{bb27e466c80b32cd22513dc1718445af}
+      \strng{bibnamehash}{bb27e466c80b32cd22513dc1718445af}
+      \strng{authorbibnamehash}{bb27e466c80b32cd22513dc1718445af}
+      \strng{authornamehash}{bb27e466c80b32cd22513dc1718445af}
+      \strng{authorfullhash}{bb27e466c80b32cd22513dc1718445af}
+      \strng{editorbibnamehash}{38f66abf2d9c4d9283c19932c2eaefb3}
+      \strng{editornamehash}{38f66abf2d9c4d9283c19932c2eaefb3}
+      \strng{editorfullhash}{38f66abf2d9c4d9283c19932c2eaefb3}
+      \field{extraname}{2}
+      \field{sortinit}{P}
+      \field{sortinithash}{ff3bcf24f47321b42cb156c2cc8a8422}
+      \field{extradatescope}{labelyear}
+      \field{labeldatesource}{year}
+      \field{labelnamesource}{author}
+      \field{labeltitlesource}{title}
+      \field{booktitle}{New Horizons in {Chinese} Linguistics}
+      \field{title}{Recent issues in {Chinese} historical syntax}
+      \field{year}{1996}
+      \field{pages}{161\bibrangedash 213}
+      \range{pages}{53}
+    \endentry
+    \entry{Pulleyblank1973}{article}{}
+      \name{author}{1}{}{%
+        {{hash=f3129a22714a4dcc45ce99d5e9225f61}{%
+           family={Pulleyblank},
+           familyi={P\bibinitperiod},
+           given={Edwin\bibnamedelima G},
+           giveni={E\bibinitperiod\bibinitdelim G\bibinitperiod}}}%
+      }
+      \strng{namehash}{f3129a22714a4dcc45ce99d5e9225f61}
+      \strng{fullhash}{f3129a22714a4dcc45ce99d5e9225f61}
+      \strng{bibnamehash}{f3129a22714a4dcc45ce99d5e9225f61}
+      \strng{authorbibnamehash}{f3129a22714a4dcc45ce99d5e9225f61}
+      \strng{authornamehash}{f3129a22714a4dcc45ce99d5e9225f61}
+      \strng{authorfullhash}{f3129a22714a4dcc45ce99d5e9225f61}
+      \field{sortinit}{P}
+      \field{sortinithash}{ff3bcf24f47321b42cb156c2cc8a8422}
+      \field{extradatescope}{labelyear}
+      \field{labeldatesource}{year}
+      \field{labelnamesource}{author}
+      \field{labeltitlesource}{title}
+      \field{journaltitle}{Journal of Chinese Linguistics}
+      \field{number}{1}
+      \field{title}{Some new hypotheses concerning word families in {C}hinese}
+      \field{volume}{1}
+      \field{year}{1973}
+      \field{pages}{111\bibrangedash 125}
+      \range{pages}{15}
+    \endentry
+    \entry{Schuessler2007}{book}{}
+      \name{author}{1}{}{%
+        {{hash=f9d683fb3b347b990865e5cb6b0cad35}{%
+           family={Schuessler},
+           familyi={S\bibinitperiod},
+           given={Axel},
+           giveni={A\bibinitperiod}}}%
+      }
+      \list{location}{1}{%
+        {Honolulu}%
+      }
+      \list{publisher}{1}{%
+        {University of Hawai'i Press}%
+      }
+      \strng{namehash}{f9d683fb3b347b990865e5cb6b0cad35}
+      \strng{fullhash}{f9d683fb3b347b990865e5cb6b0cad35}
+      \strng{bibnamehash}{f9d683fb3b347b990865e5cb6b0cad35}
+      \strng{authorbibnamehash}{f9d683fb3b347b990865e5cb6b0cad35}
+      \strng{authornamehash}{f9d683fb3b347b990865e5cb6b0cad35}
+      \strng{authorfullhash}{f9d683fb3b347b990865e5cb6b0cad35}
+      \field{sortinit}{S}
+      \field{sortinithash}{b164b07b29984b41daf1e85279fbc5ab}
+      \field{extradatescope}{labelyear}
+      \field{labeldatesource}{year}
+      \field{labelnamesource}{author}
+      \field{labeltitlesource}{title}
+      \field{series}{{ABC} {Chinese} {D}ictionary {S}eries}
+      \field{title}{{{ABC}} etymological dictionary of old {C}hinese}
+      \field{year}{2007}
+    \endentry
+    \entry{Sturgeon2011}{online}{}
+      \name{author}{1}{}{%
+        {{hash=aaea5fb313964a4e65422167b5571fa5}{%
+           family={Sturgeon},
+           familyi={S\bibinitperiod},
+           given={Donald},
+           giveni={D\bibinitperiod}}}%
+      }
+      \strng{namehash}{aaea5fb313964a4e65422167b5571fa5}
+      \strng{fullhash}{aaea5fb313964a4e65422167b5571fa5}
+      \strng{bibnamehash}{aaea5fb313964a4e65422167b5571fa5}
+      \strng{authorbibnamehash}{aaea5fb313964a4e65422167b5571fa5}
+      \strng{authornamehash}{aaea5fb313964a4e65422167b5571fa5}
+      \strng{authorfullhash}{aaea5fb313964a4e65422167b5571fa5}
+      \field{sortinit}{S}
+      \field{sortinithash}{b164b07b29984b41daf1e85279fbc5ab}
+      \field{extradatescope}{labelyear}
+      \field{labeldatesource}{year}
+      \field{labelnamesource}{author}
+      \field{labeltitlesource}{title}
+      \field{title}{{Chinese} Text Project}
+      \field{urlyear}{2017-02-15}
+      \field{year}{2011}
+      \verb{urlraw}
+      \verb http://ctext.org
+      \endverb
+      \verb{url}
+      \verb http://ctext.org
+      \endverb
+    \endentry
+    \entry{TaiChan1999}{incollection}{}
+      \name{author}{2}{}{%
+        {{hash=20dc307715ce924389bd789e1441f94f}{%
+           family={Tai},
+           familyi={T\bibinitperiod},
+           given={James\bibnamedelima H-Y},
+           giveni={J\bibinitperiod\bibinitdelim H\bibinithyphendelim Y\bibinitperiod}}}%
+        {{hash=e50dac89c754d4bd989c949997faa196}{%
+           family={Chan},
+           familyi={C\bibinitperiod},
+           given={Marjorie\bibnamedelima K-M.},
+           giveni={M\bibinitperiod\bibinitdelim K\bibinithyphendelim M\bibinitperiod}}}%
+      }
+      \name{editor}{2}{}{%
+        {{hash=bb27e466c80b32cd22513dc1718445af}{%
+           family={Peyraube},
+           familyi={P\bibinitperiod},
+           given={Alain},
+           giveni={A\bibinitperiod}}}%
+        {{hash=84b2869f6dd57a20d4c7a7134481b65f}{%
+           family={Sun},
+           familyi={S\bibinitperiod},
+           given={Chaofen},
+           giveni={C\bibinitperiod}}}%
+      }
+      \list{publisher}{1}{%
+        {Paris: Ecole des hautes etudes en sciences sociales}%
+      }
+      \strng{namehash}{3ec07f16b3bcce0d86d52db110bbc251}
+      \strng{fullhash}{3ec07f16b3bcce0d86d52db110bbc251}
+      \strng{bibnamehash}{3ec07f16b3bcce0d86d52db110bbc251}
+      \strng{authorbibnamehash}{3ec07f16b3bcce0d86d52db110bbc251}
+      \strng{authornamehash}{3ec07f16b3bcce0d86d52db110bbc251}
+      \strng{authorfullhash}{3ec07f16b3bcce0d86d52db110bbc251}
+      \strng{editorbibnamehash}{164743696f28f8be0d1d53d9d5184af9}
+      \strng{editornamehash}{164743696f28f8be0d1d53d9d5184af9}
+      \strng{editorfullhash}{164743696f28f8be0d1d53d9d5184af9}
+      \field{sortinit}{T}
+      \field{sortinithash}{9af77f0292593c26bde9a56e688eaee9}
+      \field{extradatescope}{labelyear}
+      \field{labeldatesource}{year}
+      \field{labelnamesource}{author}
+      \field{labeltitlesource}{title}
+      \field{booktitle}{{S}tudies on {C}hinese {H}istorical {S}yntax and {M}orphology}
+      \field{title}{Some reflections on the periodization of the {C}hinese language}
+      \field{year}{1999}
+      \field{pages}{223\bibrangedash 239}
+      \range{pages}{17}
+    \endentry
+    \entry{Tsai2008}{article}{}
+      \name{author}{1}{}{%
+        {{hash=638679f963d49c9813ccb8b3c65568c5}{%
+           family={Tsai},
+           familyi={T\bibinitperiod},
+           given={Wei-Tien\bibnamedelima Dylan},
+           giveni={W\bibinithyphendelim T\bibinitperiod\bibinitdelim D\bibinitperiod}}}%
+      }
+      \strng{namehash}{638679f963d49c9813ccb8b3c65568c5}
+      \strng{fullhash}{638679f963d49c9813ccb8b3c65568c5}
+      \strng{bibnamehash}{638679f963d49c9813ccb8b3c65568c5}
+      \strng{authorbibnamehash}{638679f963d49c9813ccb8b3c65568c5}
+      \strng{authornamehash}{638679f963d49c9813ccb8b3c65568c5}
+      \strng{authorfullhash}{638679f963d49c9813ccb8b3c65568c5}
+      \field{sortinit}{T}
+      \field{sortinithash}{9af77f0292593c26bde9a56e688eaee9}
+      \field{extradatescope}{labelyear}
+      \field{labeldatesource}{year}
+      \field{labelnamesource}{author}
+      \field{labeltitlesource}{title}
+      \field{journaltitle}{Lingua}
+      \field{number}{5}
+      \field{title}{Tense anchoring in {C}hinese}
+      \field{volume}{118}
+      \field{year}{2008}
+      \field{pages}{675\bibrangedash 686}
+      \range{pages}{12}
+    \endentry
+    \entry{Veselinova2013}{article}{}
+      \name{author}{1}{}{%
+        {{hash=7fe498e77749748c85db170b51b0b191}{%
+           family={Veselinova},
+           familyi={V\bibinitperiod},
+           given={Ljuba},
+           giveni={L\bibinitperiod}}}%
+      }
+      \strng{namehash}{7fe498e77749748c85db170b51b0b191}
+      \strng{fullhash}{7fe498e77749748c85db170b51b0b191}
+      \strng{bibnamehash}{7fe498e77749748c85db170b51b0b191}
+      \strng{authorbibnamehash}{7fe498e77749748c85db170b51b0b191}
+      \strng{authornamehash}{7fe498e77749748c85db170b51b0b191}
+      \strng{authorfullhash}{7fe498e77749748c85db170b51b0b191}
+      \field{extraname}{1}
+      \field{sortinit}{V}
+      \field{sortinithash}{afb52128e5b4dc4b843768c0113d673b}
+      \field{extradatescope}{labelyear}
+      \field{labeldatesource}{year}
+      \field{labelnamesource}{author}
+      \field{labeltitlesource}{title}
+      \field{issuesubtitle}{Special Issue on Existential Constructions}
+      \field{journaltitle}{Italian Journal of Linguistics}
+      \field{number}{1}
+      \field{title}{Negative existentials: {{A}} cross-linguistic study}
+      \field{volume}{25}
+      \field{year}{2013}
+      \field{pages}{107\bibrangedash 145}
+      \range{pages}{39}
+    \endentry
+    \entry{Veselinova2014}{article}{}
+      \name{author}{1}{}{%
+        {{hash=7fe498e77749748c85db170b51b0b191}{%
+           family={Veselinova},
+           familyi={V\bibinitperiod},
+           given={Ljuba},
+           giveni={L\bibinitperiod}}}%
+      }
+      \strng{namehash}{7fe498e77749748c85db170b51b0b191}
+      \strng{fullhash}{7fe498e77749748c85db170b51b0b191}
+      \strng{bibnamehash}{7fe498e77749748c85db170b51b0b191}
+      \strng{authorbibnamehash}{7fe498e77749748c85db170b51b0b191}
+      \strng{authornamehash}{7fe498e77749748c85db170b51b0b191}
+      \strng{authorfullhash}{7fe498e77749748c85db170b51b0b191}
+      \field{extraname}{2}
+      \field{sortinit}{V}
+      \field{sortinithash}{afb52128e5b4dc4b843768c0113d673b}
+      \field{extradatescope}{labelyear}
+      \field{labeldatesource}{year}
+      \field{labelnamesource}{author}
+      \field{labeltitlesource}{title}
+      \field{journaltitle}{Linguistics}
+      \field{number}{6}
+      \field{title}{The negative existential cycle revisited}
+      \field{volume}{52}
+      \field{year}{2014}
+      \field{pages}{1327\bibrangedash 1389}
+      \range{pages}{63}
+    \endentry
+    \entry{Veselinova2016}{incollection}{}
+      \name{author}{1}{}{%
+        {{hash=7fe498e77749748c85db170b51b0b191}{%
+           family={Veselinova},
+           familyi={V\bibinitperiod},
+           given={Ljuba},
+           giveni={L\bibinitperiod}}}%
+      }
+      \name{editor}{1}{}{%
+        {{hash=5c7ed337ec3cd07de5ec6f78ff2a00ed}{%
+           family={Gelderen},
+           familyi={G\bibinitperiod},
+           given={Elly},
+           giveni={E\bibinitperiod},
+           prefix={van},
+           prefixi={v\bibinitperiod}}}%
+      }
+      \list{location}{1}{%
+        {Amsterdam}%
+      }
+      \list{publisher}{1}{%
+        {John Benjamins Publishing Company}%
+      }
+      \strng{namehash}{7fe498e77749748c85db170b51b0b191}
+      \strng{fullhash}{7fe498e77749748c85db170b51b0b191}
+      \strng{bibnamehash}{7fe498e77749748c85db170b51b0b191}
+      \strng{authorbibnamehash}{7fe498e77749748c85db170b51b0b191}
+      \strng{authornamehash}{7fe498e77749748c85db170b51b0b191}
+      \strng{authorfullhash}{7fe498e77749748c85db170b51b0b191}
+      \strng{editorbibnamehash}{5c7ed337ec3cd07de5ec6f78ff2a00ed}
+      \strng{editornamehash}{5c7ed337ec3cd07de5ec6f78ff2a00ed}
+      \strng{editorfullhash}{5c7ed337ec3cd07de5ec6f78ff2a00ed}
+      \field{extraname}{3}
+      \field{sortinit}{V}
+      \field{sortinithash}{afb52128e5b4dc4b843768c0113d673b}
+      \field{extradatescope}{labelyear}
+      \field{labeldatesource}{year}
+      \field{labelnamesource}{author}
+      \field{labeltitlesource}{title}
+      \field{booktitle}{Cyclical Change Continued}
+      \field{number}{227}
+      \field{series}{Linguistics Today}
+      \field{title}{The Negative Existential Cycle viewed through the lens of comparative data}
+      \field{year}{2016}
+      \field{pages}{139\bibrangedash 187}
+      \range{pages}{49}
+    \endentry
+    \entry{Wan1958}{book}{}
+      \name{author}{1}{}{%
+        {{hash=040811383cdd67e5536ac2e3e35f6e27}{%
+           family={Wan},
+           familyi={W\bibinitperiod},
+           given={Kuo-Ting},
+           giveni={K\bibinithyphendelim T\bibinitperiod}}}%
+      }
+      \list{location}{1}{%
+        {Hong Kong}%
+      }
+      \list{publisher}{1}{%
+        {Commercial Press}%
+      }
+      \strng{namehash}{040811383cdd67e5536ac2e3e35f6e27}
+      \strng{fullhash}{040811383cdd67e5536ac2e3e35f6e27}
+      \strng{bibnamehash}{040811383cdd67e5536ac2e3e35f6e27}
+      \strng{authorbibnamehash}{040811383cdd67e5536ac2e3e35f6e27}
+      \strng{authornamehash}{040811383cdd67e5536ac2e3e35f6e27}
+      \strng{authorfullhash}{040811383cdd67e5536ac2e3e35f6e27}
+      \field{sortinit}{W}
+      \field{sortinithash}{4315d78024d0cea9b57a0c6f0e35ed0d}
+      \field{extradatescope}{labelyear}
+      \field{labeldatesource}{year}
+      \field{labelnamesource}{author}
+      \field{labeltitlesource}{title}
+      \field{title}{{\cn 中國歷史紀年表} {Z}hongguo lishi jinianbiao [{C}hronology of {Chinese} History]}
+      \field{year}{1958}
+    \endentry
+    \entry{Wang1958}{book}{}
+      \name{author}{1}{}{%
+        {{hash=944d21a090d2fc32d2cdd40c7a346126}{%
+           family={Wang},
+           familyi={W\bibinitperiod},
+           given={Li},
+           giveni={L\bibinitperiod}}}%
+      }
+      \list{location}{1}{%
+        {Beijing}%
+      }
+      \list{publisher}{1}{%
+        {Kexue Chubanshe}%
+      }
+      \strng{namehash}{944d21a090d2fc32d2cdd40c7a346126}
+      \strng{fullhash}{944d21a090d2fc32d2cdd40c7a346126}
+      \strng{bibnamehash}{944d21a090d2fc32d2cdd40c7a346126}
+      \strng{authorbibnamehash}{944d21a090d2fc32d2cdd40c7a346126}
+      \strng{authornamehash}{944d21a090d2fc32d2cdd40c7a346126}
+      \strng{authorfullhash}{944d21a090d2fc32d2cdd40c7a346126}
+      \field{extraname}{1}
+      \field{sortinit}{W}
+      \field{sortinithash}{4315d78024d0cea9b57a0c6f0e35ed0d}
+      \field{extradatescope}{labelyear}
+      \field{labeldatesource}{year}
+      \field{labelnamesource}{author}
+      \field{labeltitlesource}{title}
+      \field{title}{Hanyu Shigao [{T}he History of {Chinese}]}
+      \field{volume}{3}
+      \field{year}{1958}
+    \endentry
+    \entry{Wang1965}{article}{}
+      \name{author}{1}{}{%
+        {{hash=a466a330751a2c1422bc2df7317507d4}{%
+           family={Wang},
+           familyi={W\bibinitperiod},
+           given={William\bibnamedelima Shi-yuan},
+           giveni={W\bibinitperiod\bibinitdelim S\bibinithyphendelim y\bibinitperiod}}}%
+      }
+      \strng{namehash}{a466a330751a2c1422bc2df7317507d4}
+      \strng{fullhash}{a466a330751a2c1422bc2df7317507d4}
+      \strng{bibnamehash}{a466a330751a2c1422bc2df7317507d4}
+      \strng{authorbibnamehash}{a466a330751a2c1422bc2df7317507d4}
+      \strng{authornamehash}{a466a330751a2c1422bc2df7317507d4}
+      \strng{authorfullhash}{a466a330751a2c1422bc2df7317507d4}
+      \field{extraname}{2}
+      \field{sortinit}{W}
+      \field{sortinithash}{4315d78024d0cea9b57a0c6f0e35ed0d}
+      \field{extradatescope}{labelyear}
+      \field{labeldatesource}{year}
+      \field{labelnamesource}{author}
+      \field{labeltitlesource}{title}
+      \field{journaltitle}{Language}
+      \field{number}{3}
+      \field{title}{Two Aspect Markers in {M}andarin}
+      \field{volume}{41}
+      \field{year}{1965}
+      \field{pages}{457\bibrangedash 470}
+      \range{pages}{14}
+    \endentry
+    \entry{Xu2003}{article}{}
+      \name{author}{1}{}{%
+        {{hash=06d1227b37c8fe257df4ae155d1e502e}{%
+           family={Xu},
+           familyi={X\bibinitperiod},
+           given={Shi-Yi},
+           giveni={S\bibinithyphendelim Y\bibinitperiod}}}%
+      }
+      \strng{namehash}{06d1227b37c8fe257df4ae155d1e502e}
+      \strng{fullhash}{06d1227b37c8fe257df4ae155d1e502e}
+      \strng{bibnamehash}{06d1227b37c8fe257df4ae155d1e502e}
+      \strng{authorbibnamehash}{06d1227b37c8fe257df4ae155d1e502e}
+      \strng{authornamehash}{06d1227b37c8fe257df4ae155d1e502e}
+      \strng{authorfullhash}{06d1227b37c8fe257df4ae155d1e502e}
+      \field{sortinit}{X}
+      \field{sortinithash}{1965c258adceecf23ce3d67b05113442}
+      \field{extradatescope}{labelyear}
+      \field{labeldatesource}{year}
+      \field{labelnamesource}{author}
+      \field{labeltitlesource}{title}
+      \field{journaltitle}{Journal of Huzhou Teachers College}
+      \field{number}{1}
+      \field{title}{On the evolution of the negative mei and meiyou}
+      \field{volume}{25}
+      \field{year}{2003}
+      \field{pages}{1\bibrangedash 6}
+      \range{pages}{6}
+    \endentry
+    \entry{Yue2001}{book}{}
+      \name{author}{1}{}{%
+        {{hash=1fc9a2cfc8c77e6f5e68e6f37ee9c89a}{%
+           family={Yue},
+           familyi={Y\bibinitperiod},
+           given={Aiqin},
+           giveni={A\bibinitperiod}}}%
+      }
+      \list{location}{1}{%
+        {Shanghai}%
+      }
+      \list{publisher}{1}{%
+        {Shanghai Normal University}%
+      }
+      \strng{namehash}{1fc9a2cfc8c77e6f5e68e6f37ee9c89a}
+      \strng{fullhash}{1fc9a2cfc8c77e6f5e68e6f37ee9c89a}
+      \strng{bibnamehash}{1fc9a2cfc8c77e6f5e68e6f37ee9c89a}
+      \strng{authorbibnamehash}{1fc9a2cfc8c77e6f5e68e6f37ee9c89a}
+      \strng{authornamehash}{1fc9a2cfc8c77e6f5e68e6f37ee9c89a}
+      \strng{authorfullhash}{1fc9a2cfc8c77e6f5e68e6f37ee9c89a}
+      \field{sortinit}{Y}
+      \field{sortinithash}{fd67ad5a9ef0f7456bdd9aab10fe1495}
+      \field{extradatescope}{labelyear}
+      \field{labeldatesource}{year}
+      \field{labelnamesource}{author}
+      \field{labeltitlesource}{title}
+      \field{series}{{\cn 中國東南方言比較研究研討會} (The comparative study of the dialects in {S}outheast {C}hina conference)}
+      \field{title}{{\cn 粵語的否定式：一個歷史的考察} Yueyude foudingshi: {{Y}}i ge lishide kaocha [{N}egation in {C}antonese: {{A}} diachronic study]}
+      \field{year}{2001}
+    \endentry
+    \entry{Zanuttini2001}{incollection}{}
+      \name{author}{1}{}{%
+        {{hash=546460ad334908ceb95032eef6db5932}{%
+           family={Zanuttini},
+           familyi={Z\bibinitperiod},
+           given={Raffaella},
+           giveni={R\bibinitperiod}}}%
+      }
+      \name{editor}{2}{}{%
+        {{hash=a931ee90cf7284383666e93877c18f59}{%
+           family={Baltin},
+           familyi={B\bibinitperiod},
+           given={Mark},
+           giveni={M\bibinitperiod}}}%
+        {{hash=7a9bf0a1a99b87aa95cd6e0b9d991fd1}{%
+           family={Collins},
+           familyi={C\bibinitperiod},
+           given={Chris},
+           giveni={C\bibinitperiod}}}%
+      }
+      \list{location}{1}{%
+        {Oxford}%
+      }
+      \list{publisher}{1}{%
+        {Blackwell}%
+      }
+      \strng{namehash}{546460ad334908ceb95032eef6db5932}
+      \strng{fullhash}{546460ad334908ceb95032eef6db5932}
+      \strng{bibnamehash}{546460ad334908ceb95032eef6db5932}
+      \strng{authorbibnamehash}{546460ad334908ceb95032eef6db5932}
+      \strng{authornamehash}{546460ad334908ceb95032eef6db5932}
+      \strng{authorfullhash}{546460ad334908ceb95032eef6db5932}
+      \strng{editorbibnamehash}{48c957d5bcf46f49ee840acc48b9bc16}
+      \strng{editornamehash}{48c957d5bcf46f49ee840acc48b9bc16}
+      \strng{editorfullhash}{48c957d5bcf46f49ee840acc48b9bc16}
+      \field{sortinit}{Z}
+      \field{sortinithash}{96892c0b0a36bb8557c40c49813d48b3}
+      \field{extradatescope}{labelyear}
+      \field{labeldatesource}{year}
+      \field{labelnamesource}{author}
+      \field{labeltitlesource}{title}
+      \field{booktitle}{The Handbook of Contemporary Syntactic Theory}
+      \field{title}{Sentential Negation}
+      \field{year}{2001}
+      \field{pages}{511\bibrangedash 535}
+      \range{pages}{25}
+    \endentry
+    \entry{Zhang2002}{incollection}{}
+      \name{author}{1}{}{%
+        {{hash=c5f133678c8bdff0e050e19158f289ed}{%
+           family={Zhang},
+           familyi={Z\bibinitperiod},
+           given={Min},
+           giveni={M\bibinitperiod}}}%
+      }
+      \name{editor}{1}{}{%
+        {{hash=d14bb055770a21618aeb4f75722edcde}{%
+           family={Yue},
+           familyi={Y\bibinitperiod},
+           given={Anne},
+           giveni={A\bibinitperiod}}}%
+      }
+      \list{location}{1}{%
+        {Seattle}%
+      }
+      \list{publisher}{1}{%
+        {University of Washington}%
+      }
+      \strng{namehash}{c5f133678c8bdff0e050e19158f289ed}
+      \strng{fullhash}{c5f133678c8bdff0e050e19158f289ed}
+      \strng{bibnamehash}{c5f133678c8bdff0e050e19158f289ed}
+      \strng{authorbibnamehash}{c5f133678c8bdff0e050e19158f289ed}
+      \strng{authornamehash}{c5f133678c8bdff0e050e19158f289ed}
+      \strng{authorfullhash}{c5f133678c8bdff0e050e19158f289ed}
+      \strng{editorbibnamehash}{d14bb055770a21618aeb4f75722edcde}
+      \strng{editornamehash}{d14bb055770a21618aeb4f75722edcde}
+      \strng{editorfullhash}{d14bb055770a21618aeb4f75722edcde}
+      \field{sortinit}{Z}
+      \field{sortinithash}{96892c0b0a36bb8557c40c49813d48b3}
+      \field{extradatescope}{labelyear}
+      \field{labeldatesource}{year}
+      \field{labelnamesource}{author}
+      \field{labeltitlesource}{title}
+      \field{booktitle}{{International Symposium on the historical aspect of the {C}hinese Language: {{C}}ommemorating the Centennial Birthday of the Late Professor {Li} {Fang}-{Kuei} (Vol. {II})}}
+      \field{title}{Shanggu Zhonggu Hanyu ji xiandai nanfang fangyan li de `fouding cunzai yanhua quan' [The {N}egative-existential cycle as manifested in {A}rchaic {C}hinese, {M}iddle {C}hinese, and the {M}odern {S}outhern dialects]}
+      \field{year}{2002}
+      \field{pages}{571\bibrangedash 616}
+      \range{pages}{46}
+    \endentry
+    \entry{Zhou1995}{book}{}
+      \name{author}{1}{}{%
+        {{hash=2885e2895f6ca97129101f7f006133ce}{%
+           family={Zhou},
+           familyi={Z\bibinitperiod},
+           given={Jiarong},
+           giveni={J\bibinitperiod}}}%
+      }
+      \list{location}{1}{%
+        {Hong Kong}%
+      }
+      \list{publisher}{1}{%
+        {Hong Kong Educational Publishing Co}%
+      }
+      \strng{namehash}{2885e2895f6ca97129101f7f006133ce}
+      \strng{fullhash}{2885e2895f6ca97129101f7f006133ce}
+      \strng{bibnamehash}{2885e2895f6ca97129101f7f006133ce}
+      \strng{authorbibnamehash}{2885e2895f6ca97129101f7f006133ce}
+      \strng{authornamehash}{2885e2895f6ca97129101f7f006133ce}
+      \strng{authorfullhash}{2885e2895f6ca97129101f7f006133ce}
+      \field{sortinit}{Z}
+      \field{sortinithash}{96892c0b0a36bb8557c40c49813d48b3}
+      \field{extradatescope}{labelyear}
+      \field{labeldatesource}{year}
+      \field{labelnamesource}{author}
+      \field{labeltitlesource}{title}
+      \field{edition}{2}
+      \field{title}{{\cn 中國歷史學習年表} {Z}hongguo lishi xuexi nianbiao [{C}hronological chart of {Chinese} History for learners]}
+      \field{year}{1995}
+    \endentry
+  \enddatalist
+\endrefsection
+\endinput
+
