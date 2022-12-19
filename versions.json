@@ -2,6 +2,11 @@
 		"title": "The Negative Existential Cycle",
 		"authors": [{"name": "Ljuba Veselinova and Arja Hamari"}],
 	"license": "CC-BY-4.0",
-	"publishedAt": "2021-06-17T09:14:27.000Z"}
+	"publishedAt": "2021-06-17T09:14:27.000Z"},
+	{"versiontype": "first edition",
+		"title": "The Negative Existential Cycle",
+		"authors": [{"name": "Ljuba Veselinova"}, {"name": "Arja Hamari"}],
+	"license": "CC-BY-4.0",
+	"publishedAt": "2022-12-17T09:14:27.000Z"}
 	]
 }
